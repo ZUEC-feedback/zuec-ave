@@ -1,0 +1,139 @@
+Report for Institution Code ZUEC, Resource zuec-ave
+Usage stats for February 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 184
+Number of records retrieved in searches: 722
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 10
+	Country: Canada ; Times: 1
+	Country: Portugal ; Times: 150
+	Country: Mexico ; Times: 1
+	Country: United States ; Times: 8
+	Country: Colombia ; Times: 12
+	Country: Venezuela ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-21 ; Times: 2
+	Date: 2018-02-20 ; Times: 71
+	Date: 2018-02-23 ; Times: 2
+	Date: 2018-02-22 ; Times: 1
+	Date: 2018-02-24 ; Times: 1
+	Date: 2018-02-27 ; Times: 84
+	Date: 2018-02-26 ; Times: 1
+	Date: 2018-02-28 ; Times: 2
+	Date: 2018-02-18 ; Times: 1
+	Date: 2018-02-19 ; Times: 1
+	Date: 2018-02-09 ; Times: 1
+	Date: 2018-02-08 ; Times: 1
+	Date: 2018-02-02 ; Times: 1
+	Date: 2018-02-01 ; Times: 10
+	Date: 2018-02-06 ; Times: 2
+	Date: 2018-02-05 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Columbina talpacoti mappable:1" ; Times: 4
+	Query: "Falco femoralis mappable:1" ; Times: 4
+	Query: "ramphastos toco" ; Times: 12
+	Query: "Jacana jacana mappable:1" ; Times: 2
+	Query: "Anas flavirostris mappable:1" ; Times: 4
+	Query: "Aratinga aurea mappable:1" ; Times: 3
+	Query: "Netta rufina basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen specificepithet:savana genus:Tyrannus country:&#34;Brasil&#34;" ; Times: 1
+	Query: "catalognumber:1639" ; Times: 1
+	Query: "Paroaria coronata mappable:1" ; Times: 4
+	Query: "Lophura nycthemera mappable:1" ; Times: 4
+	Query: "sterna hirundinacea" ; Times: 2
+	Query: "Aratinga solstitialis" ; Times: 1
+	Query: "Eudocimus ruber mappable:1" ; Times: 4
+	Query: "Ara chloroptera mappable:1" ; Times: 3
+	Query: "Estrilda astrild mappable:1" ; Times: 4
+	Query: "vntype:specimen specificepithet:melancholicus genus:Tyrannus country:&#34;BraSil&#34;" ; Times: 1
+	Query: "Tyrannus savana mappable:1" ; Times: 4
+	Query: "Aratinga cactorum mappable:1" ; Times: 3
+	Query: "Alectoris chukar mappable:1" ; Times: 4
+	Query: "Amazona farinosa mappable:1" ; Times: 3
+	Query: "Caracara plancus mappable:1" ; Times: 3
+	Query: "Sporophila maximiliani" ; Times: 1
+	Query: "Chauna torquata basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Cygnus melancoryphus mappable:1" ; Times: 4
+	Query: "specificepithet:similis genus:Myiozetetes country:&#34;Brasil&#34;" ; Times: 2
+	Query: "catalognumber:2201" ; Times: 1
+	Query: "Aratinga nenday mappable:1" ; Times: 3
+	Query: "Moa class:Aves" ; Times: 1
+	Query: "Sarkidiornis melanotos mappable:1" ; Times: 4
+	Query: "Amazona aestiva mappable:1" ; Times: 3
+	Query: "Geopelia cuneata mappable:1" ; Times: 4
+	Query: "vntype:specimen specificepithet:melancholicus genus:TYrannus country:&#34;Brasil&#34;" ; Times: 1
+	Query: "lophornis" ; Times: 1
+	Query: "pipra fasciicauda" ; Times: 1
+	Query: "Ara ararauna mappable:1" ; Times: 3
+	Query: "genus:Tyrannus country:&#34;Brasil&#34;" ; Times: 1
+	Query: "Agapornis personata mappable:1" ; Times: 3
+	Query: "Brotogeris chiriri mappable:1" ; Times: 3
+	Query: "Aratinga leucophthalmus mappable:1" ; Times: 3
+	Query: "Amazonetta brasiliensis mappable:1" ; Times: 4
+	Query: "Cacicus cela mappable:1" ; Times: 4
+	Query: "Amazona amazonica mappable:1" ; Times: 3
+	Query: "Paroaria capitata mappable:1" ; Times: 4
+	Query: "Herpetotheres cachinnans mappable:1" ; Times: 4
+	Query: "Chloebia gouldiae mappable:1" ; Times: 5
+	Query: "Branta ruficollis basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Tinamus tao" ; Times: 1
+	Query: "Zenaida auriculata mappable:1" ; Times: 4
+	Query: "Sicalis luteola mappable:1" ; Times: 4
+	Query: "Pyrrhura frontalis mappable:1" ; Times: 3
+	Query: "Sicalis flaveola mappable:1" ; Times: 4
+	Query: "Aix galericulata mappable:1" ; Times: 4
+	Query: "Agapornis roseicollis mappable:1" ; Times: 3
+	Query: "Ara rubrogenys mappable:1" ; Times: 3
+	Query: "Diopsittaca nobilis mappable:1" ; Times: 3
+	Query: "Tinamus tao tao" ; Times: 1
+	Query: "Larus dominicanus mappable:1" ; Times: 4
+	Query: "dixiphia pipra" ; Times: 1
+	Query: "Guira guira mappable:1" ; Times: 4
+	Query: "Dendrocygna autumnalis mappable:1" ; Times: 3
+	Query: "Elanoides forficatus mappable:1" ; Times: 4
+	Query: "catalognumber:1322" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 18 (out of 1892 download events in this period)
+Total number of records downloaded: 96
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 9
+	Country: Brazil ; Times: 4
+	Country: Colombia ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-14 ; Times: 2
+	Date: 2018-02-27 ; Times: 4
+	Date: 2018-02-26 ; Times: 1
+	Date: 2018-02-02 ; Times: 1
+	Date: 2018-02-01 ; Times: 2
+	Date: 2018-02-07 ; Times: 1
+	Date: 2018-02-06 ; Times: 3
+	Date: 2018-02-05 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "coereba" ; Times: 1
+	Query: "specificepithet:coturnix genus:Coturnix" ; Times: 1
+	Query: "Sporophila maximiliani" ; Times: 1
+	Query: "ramphastos toco" ; Times: 4
+	Query: "specificepithet:cunicularia genus:Athene" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "Phaethornis bourcieri" ; Times: 1
+	Query: "Aratinga solstitialis" ; Times: 1
+	Query: "specificepithet:chukar genus:Alectoris" ; Times: 1
+	Query: "specificepithet:livia genus:Columba" ; Times: 1
+	Query: "Momotus momota" ; Times: 3
+	Query: "Tinamus tao" ; Times: 1
+	Query: "Onychorhynchus vntype:specimen mappable:1" ; Times: 1
+
+
+End of report.
