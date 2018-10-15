@@ -1,0 +1,43 @@
+Report for Institution Code ZUEC, Resource zuec-ave
+Usage stats for November 2017, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 6
+Number of records retrieved in searches: 6
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-11-27 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Melanopareia" ; Times: 1
+	Query: "genus:Micropygia" ; Times: 2
+	Query: "genus:Terenura" ; Times: 1
+	Query: "genus:Neopelma" ; Times: 1
+	Query: "genus:Piprites" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 5 (out of 1101 download events in this period)
+Total number of records downloaded: 7
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-11-27 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Melanopareia" ; Times: 1
+	Query: "genus:Micropygia" ; Times: 1
+	Query: "genus:Terenura" ; Times: 1
+	Query: "genus:Neopelma" ; Times: 1
+	Query: "genus:Piprites" ; Times: 1
+
+
+End of report.
