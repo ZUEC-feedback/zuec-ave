@@ -1,0 +1,83 @@
+Report for Institution Code ZUEC, Resource zuec-ave
+Usage stats for April 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 45
+Number of records retrieved in searches: 131
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+	Country: Brazil ; Times: 40
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-13 ; Times: 6
+	Date: 2018-04-03 ; Times: 2
+	Date: 2018-04-11 ; Times: 1
+	Date: 2018-04-05 ; Times: 3
+	Date: 2018-04-17 ; Times: 1
+	Date: 2018-04-09 ; Times: 3
+	Date: 2018-04-18 ; Times: 15
+	Date: 2018-04-19 ; Times: 2
+	Date: 2018-04-10 ; Times: 2
+	Date: 2018-04-30 ; Times: 3
+	Date: 2018-04-25 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "sporophila cinnamomea" ; Times: 1
+	Query: "class:Aves recordedby:R. M. Perez" ; Times: 1
+	Query: "Cyanocorax cyanomelas" ; Times: 2
+	Query: "vntype:specimen genus:Arundinicola class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "crypturellus obsoletus" ; Times: 2
+	Query: "Phaethornis hispidus" ; Times: 2
+	Query: "Cyanocorax caeruleus" ; Times: 1
+	Query: "Eurypyga helias" ; Times: 4
+	Query: "sterna hirundinacea" ; Times: 23
+	Query: "Sporophila cinnamomea" ; Times: 1
+	Query: "Opisthocomus hoazin" ; Times: 1
+	Query: "micropygia family:rallidae class:aves" ; Times: 1
+	Query: "vntype:specimen genus:gubernetes class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "Micropygia schomburgkii" ; Times: 2
+	Query: "thlypopsis sordida" ; Times: 1
+	Query: "class:Aves recordedby:Perez" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 19 (out of 1359 download events in this period)
+Total number of records downloaded: 73
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 13
+	Country: United States ; Times: 1
+	Country: Chile ; Times: 2
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-30 ; Times: 4
+	Date: 2018-04-17 ; Times: 2
+	Date: 2018-04-06 ; Times: 1
+	Date: 2018-04-18 ; Times: 3
+	Date: 2018-04-19 ; Times: 2
+	Date: 2018-04-28 ; Times: 1
+	Date: 2018-04-05 ; Times: 4
+	Date: 2018-04-16 ; Times: 1
+	Date: 2018-04-27 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "caracara" ; Times: 1
+	Query: "Coragyps atratus" ; Times: 1
+	Query: "Phaethornis hispidus" ; Times: 3
+	Query: "Eurypyga helias" ; Times: 5
+	Query: "sterna hirundinacea" ; Times: 1
+	Query: "Coereba flaveola" ; Times: 2
+	Query: "Sporophila cinnamomea" ; Times: 1
+	Query: "Progne subis" ; Times: 1
+	Query: "Spheniscidae" ; Times: 2
+	Query: "thlypopsis sordida" ; Times: 1
+	Query: "Opisthocomus hoazin" ; Times: 1
+
+
+End of report.
