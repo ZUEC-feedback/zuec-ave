@@ -1,0 +1,74 @@
+Report for Institution Code ZUEC, Resource zuec-ave
+Usage stats for September 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 30
+Number of records retrieved in searches: 178
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 24
+	Country: United States ; Times: 5
+	Country: United Kingdom ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-11 ; Times: 1
+	Date: 2018-09-03 ; Times: 2
+	Date: 2018-09-24 ; Times: 2
+	Date: 2018-09-25 ; Times: 3
+	Date: 2018-09-26 ; Times: 1
+	Date: 2018-09-12 ; Times: 1
+	Date: 2018-09-06 ; Times: 3
+	Date: 2018-09-14 ; Times: 1
+	Date: 2018-09-04 ; Times: 2
+	Date: 2018-09-05 ; Times: 2
+	Date: 2018-09-15 ; Times: 1
+	Date: 2018-09-08 ; Times: 3
+	Date: 2018-09-27 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "gbifdatasetid:db44543f-c1f5-4241-b9ab-1ed1c1b4ece1" ; Times: 1
+	Query: "sporophila lineola" ; Times: 1
+	Query: "Capito dayi" ; Times: 1
+	Query: "genus:Chauna specificepithet:torquata " ; Times: 1
+	Query: "vntype:specimen genus:Cyanocorax class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "sterna hirundinacea" ; Times: 1
+	Query: "dixiphia pipra" ; Times: 2
+	Query: "Accipiter bicolor" ; Times: 1
+	Query: "neopelma aurifrons" ; Times: 1
+	Query: "Micropygia schomburgkii vntype:specimen" ; Times: 1
+	Query: "Micropygia schomburgkii" ; Times: 1
+	Query: "Thlypopsis sordida" ; Times: 1
+	Query: "Micropygia vntype:specimen" ; Times: 1
+	Query: "genus:Cairina specificepithet: moschata" ; Times: 1
+	Query: "amazona dufresniana" ; Times: 4
+	Query: "capito dayi" ; Times: 11
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 6 (out of 846 download events in this period)
+Total number of records downloaded: 21
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Ecuador ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-24 ; Times: 1
+	Date: 2018-09-18 ; Times: 1
+	Date: 2018-09-26 ; Times: 1
+	Date: 2018-09-04 ; Times: 1
+	Date: 2018-09-17 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "egretta thula" ; Times: 2
+	Query: "Capito dayi" ; Times: 1
+	Query: "Progne chalybea" ; Times: 1
+	Query: "capito dayi" ; Times: 1
+	Query: "distance(location,geopoint(-12.006230714144326,-37.878616699745066))&lt;100000" ; Times: 1
+
+
+End of report.
