@@ -1,0 +1,367 @@
+Report for Institution Code ZUEC, Resource zuec-ave
+Usage stats for July 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 360
+Number of records retrieved in searches: 1284
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 10
+	Country: Brazil ; Times: 23
+	Country: Peru ; Times: 327
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-13 ; Times: 2
+	Date: 2018-07-12 ; Times: 3
+	Date: 2018-07-11 ; Times: 1
+	Date: 2018-07-18 ; Times: 5
+	Date: 2018-07-17 ; Times: 3
+	Date: 2018-07-09 ; Times: 1
+	Date: 2018-07-04 ; Times: 7
+	Date: 2018-07-30 ; Times: 1
+	Date: 2018-07-21 ; Times: 1
+	Date: 2018-07-27 ; Times: 1
+	Date: 2018-07-24 ; Times: 301
+	Date: 2018-07-25 ; Times: 26
+	Date: 2018-07-31 ; Times: 1
+	Date: 2018-07-29 ; Times: 3
+	Date: 2018-07-23 ; Times: 1
+	Date: 2018-07-05 ; Times: 2
+	Date: 2018-07-16 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Myiarchus ferox mappable:1" ; Times: 1
+	Query: "vntype:specimen genus:Satrapa class:Aves country:&#34;Brasil&#34;" ; Times: 2
+	Query: "Donacobius atricapilla mappable:1" ; Times: 1
+	Query: "Anthracothorax nigricollis mappable:1" ; Times: 1
+	Query: "Tityra cayana mappable:1" ; Times: 1
+	Query: "Anhima cornuta" ; Times: 2
+	Query: "Rupornis magnirostris mappable:1" ; Times: 1
+	Query: "vntype:specimen genus:Knipolegus class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "Ictinia plumbea mappable:1" ; Times: 1
+	Query: "sterna hirundinacea" ; Times: 9
+	Query: "Phoenicopterus chilensis" ; Times: 2
+	Query: "Amazilia versicolor" ; Times: 1
+	Query: "Anas flavirostris" ; Times: 2
+	Query: "Chloroceryle aenea mappable:1" ; Times: 1
+	Query: "Chaetura cinereiventris" ; Times: 2
+	Query: "Conirostrum speciosum mappable:1" ; Times: 1
+	Query: "Accipiter bicolor mappable:1" ; Times: 3
+	Query: "Lochmias nematura mappable:1" ; Times: 1
+	Query: "Dacnis cayana mappable:1" ; Times: 1
+	Query: "Caracara plancus mappable:1" ; Times: 1
+	Query: "Emberizoides herbicola mappable:1" ; Times: 1
+	Query: "Dysithamnus mentalis mappable:1" ; Times: 1
+	Query: "Tyrannopsis sulphurea mappable:1" ; Times: 1
+	Query: "Patagioenas plumbea mappable:1" ; Times: 1
+	Query: "Crypturellus obsoletus" ; Times: 2
+	Query: "Eupetomena macroura" ; Times: 2
+	Query: "Forpus xanthopterygius mappable:1" ; Times: 1
+	Query: "Pteroglossus castanotis mappable:1" ; Times: 1
+	Query: "vntype:specimen genus:Lathrotriccus class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "Fregata magnificens mappable:1" ; Times: 1
+	Query: "Euphonia chlorotica mappable:1" ; Times: 1
+	Query: "Cairina moschata" ; Times: 2
+	Query: "vntype:specimen genus:xolmis class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "Bubulcus ibis mappable:1" ; Times: 1
+	Query: "Cnemotriccus fuscatus mappable:1" ; Times: 1
+	Query: "vntype:specimen genus:Contopus class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "Chauna torquata" ; Times: 2
+	Query: "Hydropsalis torquata mappable:1" ; Times: 1
+	Query: "Nystalus chacuru mappable:1" ; Times: 1
+	Query: "Amazilia fimbriata" ; Times: 1
+	Query: "Anthus hellmayri mappable:1" ; Times: 1
+	Query: "Liosceles thoracicus mappable:1" ; Times: 1
+	Query: "Ixobrychus involucris mappable:1" ; Times: 1
+	Query: "Hylocharis cyanus mappable:1" ; Times: 1
+	Query: "Anas bahamensis" ; Times: 2
+	Query: "Crypturellus variegatus" ; Times: 2
+	Query: "Crypturellus parvirostris mappable:1" ; Times: 1
+	Query: "Leptotila verreauxi" ; Times: 1
+	Query: "Phaethornis hispidus" ; Times: 2
+	Query: "Progne tapera mappable:1" ; Times: 1
+	Query: "Galbula cyanicollis mappable:1" ; Times: 1
+	Query: "Coccyzus melacoryphus mappable:1" ; Times: 1
+	Query: "Ardea alba mappable:1" ; Times: 1
+	Query: "Herpetotheres cachinnans mappable:1" ; Times: 1
+	Query: "genus:Contopus class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "sporophila cinnamomea" ; Times: 2
+	Query: "Opisthocomus hoazin" ; Times: 1
+	Query: "Thalurania furcata" ; Times: 2
+	Query: "Melanerpes cruentatus mappable:1" ; Times: 1
+	Query: "Geotrygon violacea" ; Times: 2
+	Query: "Veniliornis affinis mappable:1" ; Times: 1
+	Query: "Myrmotherula axillaris mappable:1" ; Times: 1
+	Query: "Pygochelidon cyanoleuca mappable:1" ; Times: 1
+	Query: "Empidonomus varius mappable:1" ; Times: 1
+	Query: "Aramus guarauna mappable:1" ; Times: 1
+	Query: "Sicalis luteola mappable:1" ; Times: 1
+	Query: "Amazilia versicolor mappable:1" ; Times: 1
+	Query: "Monasa morphoeus mappable:1" ; Times: 1
+	Query: "Claravis pretiosa" ; Times: 2
+	Query: "Nyctibius griseus" ; Times: 2
+	Query: "Elaenia chiriquensis mappable:1" ; Times: 1
+	Query: "Lipaugus vociferans mappable:1" ; Times: 1
+	Query: "Amazona farinosa mappable:1" ; Times: 1
+	Query: "Corythopis torquatus mappable:1" ; Times: 1
+	Query: "Colonia colonus mappable:1" ; Times: 1
+	Query: "Platyrinchus coronatus mappable:1" ; Times: 1
+	Query: "curaeus forbesi" ; Times: 1
+	Query: "Asio clamator mappable:1" ; Times: 1
+	Query: "Chordeiles nacunda" ; Times: 2
+	Query: "Eurypyga helias" ; Times: 2
+	Query: "Crypturellus soui mappable:1" ; Times: 1
+	Query: "Eurypyga helias mappable:1" ; Times: 1
+	Query: "Glaucidium minutissimum mappable:1" ; Times: 1
+	Query: "Piculus flavigula mappable:1" ; Times: 1
+	Query: "Jacana jacana mappable:1" ; Times: 1
+	Query: "Geotrygon montana mappable:1" ; Times: 1
+	Query: "Haematopus palliatus mappable:1" ; Times: 1
+	Query: "Patagioenas plumbea" ; Times: 2
+	Query: "Amazona amazonica mappable:1" ; Times: 1
+	Query: "Phaethornis hispidus mappable:1" ; Times: 1
+	Query: "Phacellodomus rufifrons mappable:1" ; Times: 1
+	Query: "Chaetura cinereiventris mappable:1" ; Times: 1
+	Query: "Ara ararauna mappable:1" ; Times: 1
+	Query: "Aratinga solstitialis" ; Times: 3
+	Query: "Myrmothera campanisona mappable:1" ; Times: 1
+	Query: "Phalacrocorax brasilianus mappable:1" ; Times: 1
+	Query: "Crypturellus soui" ; Times: 2
+	Query: "Laterallus melanophaius mappable:1" ; Times: 1
+	Query: "Tinamus tao" ; Times: 2
+	Query: "Crypturellus tataupa" ; Times: 2
+	Query: "Crypturellus parvirostris" ; Times: 2
+	Query: "Tinamus tao mappable:1" ; Times: 1
+	Query: "Leptotila rufaxilla" ; Times: 2
+	Query: "Falco femoralis mappable:1" ; Times: 1
+	Query: "Cyanerpes cyaneus mappable:1" ; Times: 1
+	Query: "Bartramia longicauda mappable:1" ; Times: 1
+	Query: "Campylorhynchus turdinus mappable:1" ; Times: 1
+	Query: "Columba livia mappable:1" ; Times: 1
+	Query: "Phaethornis bourcieri" ; Times: 2
+	Query: "Deroptyus accipitrinus mappable:1" ; Times: 1
+	Query: "Chelidoptera tenebrosa mappable:1" ; Times: 1
+	Query: "Ramphastos toco mappable:1" ; Times: 1
+	Query: "Porphyrolaema porphyrolaema mappable:1" ; Times: 1
+	Query: "suiriri" ; Times: 1
+	Query: "Megascops choliba mappable:1" ; Times: 1
+	Query: "Piaya cayana mappable:1" ; Times: 1
+	Query: "Zenaida auriculata mappable:1" ; Times: 1
+	Query: "Sicalis flaveola mappable:1" ; Times: 1
+	Query: "Dendrocincla merula mappable:1" ; Times: 1
+	Query: "Brotogeris cyanoptera mappable:1" ; Times: 1
+	Query: "Thamnophilus doliatus mappable:1" ; Times: 1
+	Query: "Geotrygon montana" ; Times: 2
+	Query: "Elaenia cristata mappable:1" ; Times: 1
+	Query: "Syndactyla rufosuperciliata mappable:1" ; Times: 1
+	Query: "Amazonetta brasiliensis mappable:1" ; Times: 1
+	Query: "sterna hirundinacea]" ; Times: 1
+	Query: "sporophila bouvreuil" ; Times: 1
+	Query: "Columbina talpacoti mappable:1" ; Times: 1
+	Query: "Patagioenas subvinacea mappable:1" ; Times: 1
+	Query: "genus:Satrapa class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "Tityra semifasciata mappable:1" ; Times: 1
+	Query: "Rhynchotus rufescens" ; Times: 2
+	Query: "Porzana albicollis mappable:1" ; Times: 1
+	Query: "Butorides striata mappable:1" ; Times: 1
+	Query: "Harpagus bidentatus mappable:1" ; Times: 1
+	Query: "Phaethornis malaris mappable:1" ; Times: 1
+	Query: "Todirostrum maculatum mappable:1" ; Times: 1
+	Query: "Gnorimopsar chopi mappable:1" ; Times: 1
+	Query: "Euscarthmus meloryphus mappable:1" ; Times: 1
+	Query: "Amazonetta brasiliensis" ; Times: 2
+	Query: "Campephilus rubricollis mappable:1" ; Times: 1
+	Query: "Leptotila rufaxilla mappable:1" ; Times: 1
+	Query: "Gallinula galeata mappable:1" ; Times: 1
+	Query: "Claravis pretiosa mappable:1" ; Times: 1
+	Query: "Leptotila verreauxi mappable:1" ; Times: 1
+	Query: "Rhytipterna simplex mappable:1" ; Times: 1
+	Query: "Tolmomyias sulphurescens mappable:1" ; Times: 1
+	Query: "Crypturellus cinereus" ; Times: 2
+	Query: "Arundinicola leucocephala mappable:1" ; Times: 1
+	Query: "Crotophaga ani" ; Times: 1
+	Query: "Formicarius colma mappable:1" ; Times: 1
+	Query: "Nemosia pileata mappable:1" ; Times: 1
+	Query: "Anthracothorax nigricollis" ; Times: 2
+	Query: "Crypturellus obsoletus mappable:1" ; Times: 1
+	Query: "Tersina viridis mappable:1" ; Times: 1
+	Query: "Myrmoborus myotherinus mappable:1" ; Times: 1
+	Query: "Sporophila caerulescens mappable:1" ; Times: 1
+	Query: "Pipra fasciicauda mappable:1" ; Times: 1
+	Query: "Phaeomyias murina mappable:1" ; Times: 1
+	Query: "vntype:specimen genus:Xolmis class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "specificepithet:hirundinacea genus:sterna" ; Times: 2
+	Query: "Dendrocygna viduata" ; Times: 2
+	Query: "Opisthocomus hoazin mappable:1" ; Times: 1
+	Query: "vntype:specimen genus:contopus class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "Hirundinea ferruginea mappable:1" ; Times: 1
+	Query: "Tyrannus albogularis mappable:1" ; Times: 1
+	Query: "Hylocharis cyanus" ; Times: 1
+	Query: "Dendrocygna autumnalis" ; Times: 2
+	Query: "Thlypopsis sordida mappable:1" ; Times: 1
+	Query: "Glyphorynchus spirurus mappable:1" ; Times: 1
+	Query: "Lurocalis semitorquatus" ; Times: 2
+	Query: "Tyrannus savana mappable:1" ; Times: 1
+	Query: "Columbina talpacoti" ; Times: 2
+	Query: "Legatus leucophaius mappable:1" ; Times: 1
+	Query: "Pachyramphus polychopterus mappable:1" ; Times: 1
+	Query: "Rostrhamus sociabilis mappable:1" ; Times: 1
+	Query: "Taraba major mappable:1" ; Times: 1
+	Query: "Mycteria americana mappable:1" ; Times: 1
+	Query: "Tapera naevia mappable:1" ; Times: 1
+	Query: "Egretta thula mappable:1" ; Times: 1
+	Query: "Stelgidopteryx ruficollis mappable:1" ; Times: 1
+	Query: "Spheniscus magellanicus mappable:1" ; Times: 1
+	Query: "Tangara episcopus mappable:1" ; Times: 1
+	Query: "Nyctibius griseus mappable:1" ; Times: 1
+	Query: "Sporophila schistacea mappable:1" ; Times: 1
+	Query: "Icterus cayanensis mappable:1" ; Times: 1
+	Query: "Columbina minuta" ; Times: 2
+	Query: "Monasa nigrifrons mappable:1" ; Times: 1
+	Query: "Tachycineta leucorrhoa mappable:1" ; Times: 1
+	Query: "Thamnophilus caerulescens mappable:1" ; Times: 1
+	Query: "Brotogeris versicolurus mappable:1" ; Times: 1
+	Query: "Pulsatrix perspicillata mappable:1" ; Times: 1
+	Query: "Cyclarhis gujanensis mappable:1" ; Times: 1
+	Query: "Momotus momota mappable:1" ; Times: 1
+	Query: "Sporophila lineola mappable:1" ; Times: 1
+	Query: "Neocrex erythrops mappable:1" ; Times: 1
+	Query: "Cacicus haemorrhous mappable:1" ; Times: 1
+	Query: "Gymnoderus foetidus mappable:1" ; Times: 1
+	Query: "Sporophila angolensis mappable:1" ; Times: 1
+	Query: "Dendrocygna viduata mappable:1" ; Times: 1
+	Query: "Phaethornis malaris" ; Times: 2
+	Query: "Trogon viridis mappable:1" ; Times: 1
+	Query: "Amazilia fimbriata mappable:1" ; Times: 1
+	Query: "Tachybaptus dominicus" ; Times: 2
+	Query: "Schiffornis turdina mappable:1" ; Times: 1
+	Query: "Willisornis poecilinotus mappable:1" ; Times: 1
+	Query: "Chamaeza campanisona mappable:1" ; Times: 1
+	Query: "Dendrocygna bicolor mappable:1" ; Times: 1
+	Query: "Dendrocygna autumnalis mappable:1" ; Times: 1
+	Query: "Ammodramus humeralis mappable:1" ; Times: 1
+	Query: "Chloroceryle amazona mappable:1" ; Times: 1
+	Query: "Satrapa icterophrys mappable:1" ; Times: 1
+	Query: "Crotophaga ani mappable:1" ; Times: 1
+	Query: "Synallaxis albescens mappable:1" ; Times: 1
+	Query: "Turdus albicollis mappable:1" ; Times: 1
+	Query: "Tangara sayaca mappable:1" ; Times: 1
+	Query: "Saltator maximus mappable:1" ; Times: 1
+	Query: "Chiroxiphia pareola mappable:1" ; Times: 1
+	Query: "Myiozetetes similis mappable:1" ; Times: 1
+	Query: "Psarocolius decumanus mappable:1" ; Times: 1
+	Query: "Synallaxis rutilans mappable:1" ; Times: 1
+	Query: "Myiodynastes maculatus mappable:1" ; Times: 1
+	Query: "Chloroceryle inda mappable:1" ; Times: 1
+	Query: "Coereba flaveola mappable:1" ; Times: 1
+	Query: "Podiceps major mappable:1" ; Times: 1
+	Query: "Tachybaptus dominicus mappable:1" ; Times: 1
+	Query: "Sporophila nigricollis mappable:1" ; Times: 1
+	Query: "Turdus leucomelas mappable:1" ; Times: 1
+	Query: "Pyroderus scutatus mappable:1" ; Times: 1
+	Query: "Trogon melanurus mappable:1" ; Times: 1
+	Query: "Glaucidium hardyi mappable:1" ; Times: 1
+	Query: "Hydropsalis torquata" ; Times: 2
+	Query: "Camptostoma obsoletum mappable:1" ; Times: 1
+	Query: "Sittasomus griseicapillus mappable:1" ; Times: 1
+	Query: "Lurocalis semitorquatus mappable:1" ; Times: 1
+	Query: "Micropygia schomburgkii mappable:1" ; Times: 1
+	Query: "Calliphlox amethystina" ; Times: 1
+	Query: "Buteo brachyurus mappable:1" ; Times: 1
+	Query: "Elaenia flavogaster mappable:1" ; Times: 1
+	Query: "Elanoides forficatus mappable:1" ; Times: 1
+	Query: "Ramphastos cuvieri mappable:1" ; Times: 1
+	Query: "Pachyramphus validus mappable:1" ; Times: 1
+	Query: "Turdus amaurochalinus mappable:1" ; Times: 1
+	Query: "Sicalis citrina mappable:1" ; Times: 1
+	Query: "Tapera naevia" ; Times: 1
+	Query: "Manacus manacus mappable:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:choliba genus:megascops" ; Times: 1
+	Query: "Tangara palmarum mappable:1" ; Times: 1
+	Query: "Thamnophilus schistaceus mappable:1" ; Times: 1
+	Query: "Contopus cinereus mappable:1" ; Times: 1
+	Query: "Molothrus bonariensis mappable:1" ; Times: 1
+	Query: "Anas flavirostris mappable:1" ; Times: 1
+	Query: "Attila spadiceus mappable:1" ; Times: 1
+	Query: "Myiozetetes cayanensis mappable:1" ; Times: 1
+	Query: "Euphonia cyanocephala mappable:1" ; Times: 1
+	Query: "Geothlypis aequinoctialis mappable:1" ; Times: 1
+	Query: "Crypturellus tataupa mappable:1" ; Times: 1
+	Query: "Volatinia jacarina mappable:1" ; Times: 1
+	Query: "Tangara cayana mappable:1" ; Times: 1
+	Query: "Querula purpurata mappable:1" ; Times: 1
+	Query: "Calliphlox amethystina mappable:1" ; Times: 1
+	Query: "Megaceryle torquata mappable:1" ; Times: 1
+	Query: "Progne chalybea mappable:1" ; Times: 1
+	Query: "Elaenia parvirostris mappable:1" ; Times: 1
+	Query: "Rhynchotus rufescens mappable:1" ; Times: 1
+	Query: "Piprites chloris mappable:1" ; Times: 1
+	Query: "sporophila falcirostris" ; Times: 1
+	Query: "Gampsonyx swainsonii mappable:1" ; Times: 1
+	Query: "Tigrisoma lineatum mappable:1" ; Times: 1
+	Query: "Myiophobus fasciatus mappable:1" ; Times: 1
+	Query: "Zenaida auriculata" ; Times: 2
+	Query: "Crotophaga major mappable:1" ; Times: 1
+	Query: "Lathrotriccus euleri mappable:1" ; Times: 1
+	Query: "Chlorophonia cyanea mappable:1" ; Times: 1
+	Query: "Cacicus cela mappable:1" ; Times: 1
+	Query: "Pitangus sulphuratus mappable:1" ; Times: 1
+	Query: "Synallaxis gujanensis mappable:1" ; Times: 1
+	Query: "Thamnomanes caesius mappable:1" ; Times: 1
+	Query: "Trogon curucui mappable:1" ; Times: 1
+	Query: "Trichothraupis melanops mappable:1" ; Times: 1
+	Query: "Geotrygon violacea mappable:1" ; Times: 1
+	Query: "Milvago chimachima mappable:1" ; Times: 1
+	Query: "Onychorhynchus coronatus mappable:1" ; Times: 1
+	Query: "Crotophaga major" ; Times: 1
+	Query: "Chordeiles nacunda mappable:1" ; Times: 1
+	Query: "Ramphocelus carbo mappable:1" ; Times: 1
+	Query: "Campephilus melanoleucos mappable:1" ; Times: 1
+	Query: "Myiarchus swainsoni mappable:1" ; Times: 1
+	Query: "Todirostrum cinereum mappable:1" ; Times: 1
+	Query: "Dendrocincla fuliginosa mappable:1" ; Times: 1
+	Query: "Trogon collaris mappable:1" ; Times: 1
+	Query: "Sicalis columbiana mappable:1" ; Times: 1
+	Query: "Patagioenas subvinacea" ; Times: 2
+	Query: "Leptopogon amaurocephalus mappable:1" ; Times: 1
+	Query: "Amaurolimnas concolor mappable:1" ; Times: 1
+	Query: "Dendrocygna bicolor" ; Times: 2
+	Query: "Habia rubica mappable:1" ; Times: 1
+	Query: "Phlegopsis nigromaculata mappable:1" ; Times: 1
+	Query: "sporophila lineola" ; Times: 1
+	Query: "Phaethornis bourcieri mappable:1" ; Times: 1
+	Query: "Bucco capensis mappable:1" ; Times: 1
+	Query: "Podiceps major" ; Times: 2
+	Query: "Elaenia obscura mappable:1" ; Times: 1
+	Query: "Melanerpes candidus mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 6 (out of 977 download events in this period)
+Total number of records downloaded: 59
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: United States ; Times: 2
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-13 ; Times: 1
+	Date: 2018-07-12 ; Times: 1
+	Date: 2018-07-31 ; Times: 2
+	Date: 2018-07-24 ; Times: 1
+	Date: 2018-07-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Bartramia longicauda" ; Times: 1
+	Query: "vntype:specimen specificepithet:choliba genus:megascops" ; Times: 1
+	Query: "vntype:specimen genus:amazona basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Phaethornis bourcieri" ; Times: 1
+	Query: "Manacus manacus" ; Times: 1
+	Query: "Santa Catarina" ; Times: 1
+
+
+End of report.
