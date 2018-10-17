@@ -1,0 +1,93 @@
+Report for Institution Code ZUEC, Resource zuec-ave
+Usage stats for June 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 53
+Number of records retrieved in searches: 106
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 25
+	Country: Portugal ; Times: 2
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 7
+	Country: Peru ; Times: 2
+	Country: Argentina ; Times: 1
+	Country: Venezuela ; Times: 12
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-16 ; Times: 3
+	Date: 2018-06-06 ; Times: 1
+	Date: 2018-06-09 ; Times: 2
+	Date: 2018-06-22 ; Times: 1
+	Date: 2018-06-05 ; Times: 2
+	Date: 2018-06-19 ; Times: 14
+	Date: 2018-06-18 ; Times: 2
+	Date: 2018-06-11 ; Times: 2
+	Date: 2018-06-12 ; Times: 1
+	Date: 2018-06-30 ; Times: 1
+	Date: 2018-06-15 ; Times: 2
+	Date: 2018-06-17 ; Times: 1
+	Date: 2018-06-25 ; Times: 1
+	Date: 2018-06-24 ; Times: 1
+	Date: 2018-06-27 ; Times: 6
+	Date: 2018-06-26 ; Times: 1
+	Date: 2018-06-21 ; Times: 4
+	Date: 2018-06-20 ; Times: 1
+	Date: 2018-06-23 ; Times: 1
+	Date: 2018-06-28 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "Campylorhynchus turdinus" ; Times: 1
+	Query: "Ara ararauna" ; Times: 1
+	Query: "Schistochlamys ruficapillus" ; Times: 1
+	Query: "vntype:specimen specificepithet:femoralis genus:Falco basisofrecord:PreservedSpecimen" ; Times: 4
+	Query: "saltator similis" ; Times: 1
+	Query: "Opisthocomus hoazin country:&#34;Brasil&#34;" ; Times: 1
+	Query: "hydropsalis parvulus" ; Times: 1
+	Query: "aves arari" ; Times: 1
+	Query: "melancoryphus" ; Times: 1
+	Query: "tangara fastuosa" ; Times: 1
+	Query: "eupetomena" ; Times: 2
+	Query: "streptoprocne biscutata brazil" ; Times: 1
+	Query: "sterna hirundinacea" ; Times: 4
+	Query: "sporophila cinnamomea" ; Times: 13
+	Query: "odonata" ; Times: 2
+	Query: "Micropygia schomburgkii" ; Times: 12
+	Query: "vntype:specimen genus:Cnemotriccus country:&#34;Brasil&#34;" ; Times: 1
+	Query: "tinamus tao" ; Times: 2
+	Query: "tyrannus albogularis brazil" ; Times: 1
+	Query: "tyrannus albogularis" ; Times: 1
+	Query: "Opisthocomus hoazin" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 5 (out of 1169 download events in this period)
+Total number of records downloaded: 23
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Argentina ; Times: 2
+	Country: Venezuela ; Times: 1
+	Country: Portugal ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-10 ; Times: 1
+	Date: 2018-06-11 ; Times: 1
+	Date: 2018-06-12 ; Times: 1
+	Date: 2018-06-28 ; Times: 1
+	Date: 2018-06-08 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Micropygia schomburgkii" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Maranhão&#34;" ; Times: 1
+	Query: "hydropsalis parvulus" ; Times: 1
+	Query: "elaenia parvirostris" ; Times: 1
+	Query: "lepidothrix" ; Times: 1
+
+
+End of report.
