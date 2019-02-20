@@ -1,0 +1,236 @@
+Report for Institution Code ZUEC, Resource zuec-ave
+Usage stats for January 2019, generated on 2019/02/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 187
+Number of records retrieved in searches: 590
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 43
+	Country: United States ; Times: 7
+	Country: Argentina ; Times: 2
+	Country: Peru ; Times: 134
+	Country: Portugal ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-31 ; Times: 2
+	Date: 2019-01-19 ; Times: 2
+	Date: 2019-01-14 ; Times: 11
+	Date: 2019-01-15 ; Times: 10
+	Date: 2019-01-16 ; Times: 8
+	Date: 2019-01-17 ; Times: 3
+	Date: 2019-01-10 ; Times: 12
+	Date: 2019-01-11 ; Times: 18
+	Date: 2019-01-12 ; Times: 10
+	Date: 2019-01-13 ; Times: 17
+	Date: 2019-01-29 ; Times: 11
+	Date: 2019-01-28 ; Times: 17
+	Date: 2019-01-07 ; Times: 4
+	Date: 2019-01-05 ; Times: 1
+	Date: 2019-01-04 ; Times: 2
+	Date: 2019-01-21 ; Times: 6
+	Date: 2019-01-09 ; Times: 32
+	Date: 2019-01-22 ; Times: 2
+	Date: 2019-01-25 ; Times: 3
+	Date: 2019-01-24 ; Times: 2
+	Date: 2019-01-27 ; Times: 1
+	Date: 2019-01-08 ; Times: 11
+	Date: 2019-01-23 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Castilho" ; Times: 1
+	Query: "Cairina moschata" ; Times: 1
+	Query: "Anhima cornuta" ; Times: 1
+	Query: "sterna hirundinacea" ; Times: 3
+	Query: "Phoenicopterus chilensis" ; Times: 1
+	Query: "Amazilia versicolor" ; Times: 1
+	Query: "Anas flavirostris" ; Times: 1
+	Query: "Brotogeris cyanoptera" ; Times: 1
+	Query: "Chaetura cinereiventris" ; Times: 1
+	Query: "Trogon curucui" ; Times: 1
+	Query: "Lochmias nematura mappable:1" ; Times: 1
+	Query: "Rupornis magnirostris" ; Times: 1
+	Query: "Epinecrophylla leucophthalma" ; Times: 1
+	Query: "Turdus rufiventris" ; Times: 5
+	Query: "Bucco capensis" ; Times: 1
+	Query: "Patagioenas plumbea mappable:1" ; Times: 1
+	Query: "Crypturellus obsoletus" ; Times: 4
+	Query: "Eupetomena macroura" ; Times: 1
+	Query: "Phlegopsis nigromaculata" ; Times: 1
+	Query: "Trogon viridis" ; Times: 1
+	Query: "melanopareia" ; Times: 2
+	Query: "Amaurolimnas concolor concolor" ; Times: 1
+	Query: "Chauna torquata" ; Times: 1
+	Query: "Amazilia fimbriata" ; Times: 1
+	Query: "Galbula cyanicollis" ; Times: 1
+	Query: "Odontophorus capueira mappable:1" ; Times: 1
+	Query: "Anas bahamensis" ; Times: 1
+	Query: "Crypturellus variegatus" ; Times: 1
+	Query: "Phaethornis hispidus" ; Times: 1
+	Query: "Amazona amazonica" ; Times: 1
+	Query: "Patagioenas plumbea" ; Times: 1
+	Query: "Herpetotheres cachinnans mappable:1" ; Times: 1
+	Query: "Thalurania furcata" ; Times: 1
+	Query: "Tigrisoma lineatum" ; Times: 1
+	Query: "Chloroceryle inda" ; Times: 1
+	Query: "Myrmotherula axillaris mappable:1" ; Times: 1
+	Query: "Ixobrychus involucris" ; Times: 1
+	Query: "specificepithet:schistacea genus:Sporophila" ; Times: 1
+	Query: "Claravis pretiosa" ; Times: 1
+	Query: "Campephilus melanoleucos" ; Times: 1
+	Query: "Nyctibius griseus" ; Times: 1
+	Query: "Megaceryle torquata" ; Times: 1
+	Query: "Laterallus melanophaius" ; Times: 1
+	Query: "Chordeiles nacunda" ; Times: 1
+	Query: "Ardea cocoi" ; Times: 1
+	Query: "Melanerpes candidus" ; Times: 1
+	Query: "Glaucidium minutissimum" ; Times: 1
+	Query: "Geotrygon montana mappable:1" ; Times: 1
+	Query: "specificepithet:flavipes genus:Turdus class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "Dendrocincla fuliginosa" ; Times: 1
+	Query: "Lochmias nematura" ; Times: 1
+	Query: "Porzana albicollis" ; Times: 1
+	Query: "Crypturellus soui" ; Times: 1
+	Query: "Micropygia schomburgkii" ; Times: 1
+	Query: "Tinamus tao" ; Times: 2
+	Query: "Crypturellus tataupa" ; Times: 1
+	Query: "Crypturellus parvirostris" ; Times: 1
+	Query: "Formicivora rufa" ; Times: 1
+	Query: "Leptotila rufaxilla" ; Times: 1
+	Query: "vntype:specimen specificepithet:leucomelas genus:Turdus class:Aves country:&#34;Brasil&#34;" ; Times: 2
+	Query: "Thamnomanes caesius" ; Times: 1
+	Query: "Phaethornis bourcieri" ; Times: 1
+	Query: "Crotophaga major" ; Times: 1
+	Query: "Taraba major" ; Times: 1
+	Query: "Chamaeza campanisona" ; Times: 1
+	Query: "Conopophaga lineata mappable:1" ; Times: 1
+	Query: "Geotrygon montana" ; Times: 1
+	Query: "Amazonetta brasiliensis mappable:1" ; Times: 2
+	Query: "Aramides saracura mappable:1" ; Times: 1
+	Query: "Gallinula galeata" ; Times: 1
+	Query: "Butorides striata" ; Times: 1
+	Query: "specificepithet:fumigatus genus:Turdus class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "Amazonetta brasiliensis" ; Times: 1
+	Query: "Glyphorynchus spirurus" ; Times: 1
+	Query: "Rhynchotus rufescens" ; Times: 1
+	Query: "Amazona farinosa" ; Times: 1
+	Query: "Phalacrocorax brasilianus" ; Times: 1
+	Query: "Gallinula galeata mappable:1" ; Times: 1
+	Query: "Piculus flavigula" ; Times: 1
+	Query: "Pharomachrus pavoninus" ; Times: 1
+	Query: "Asio clamator" ; Times: 1
+	Query: "Falco femoralis" ; Times: 1
+	Query: "Dendrocincla turdina mappable:1" ; Times: 1
+	Query: "Crypturellus cinereus" ; Times: 1
+	Query: "Arundinicola leucocephala mappable:1" ; Times: 1
+	Query: "specificepithet:cela genus:Cacicus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Chloroceryle aenea" ; Times: 1
+	Query: "Anthracothorax nigricollis" ; Times: 1
+	Query: "Monasa nigrifrons" ; Times: 1
+	Query: "Dendrocygna viduata" ; Times: 1
+	Query: "Hylocharis cyanus" ; Times: 1
+	Query: "Megascops choliba" ; Times: 1
+	Query: "Lurocalis semitorquatus" ; Times: 1
+	Query: "Glaucidium hardyi" ; Times: 1
+	Query: "Trogon melanurus" ; Times: 1
+	Query: "Pachyramphus polychopterus mappable:1" ; Times: 1
+	Query: "Herpetotheres cachinnans" ; Times: 1
+	Query: "Ramphastos cuvieri" ; Times: 1
+	Query: "Aratinga nenday" ; Times: 2
+	Query: "Dendrocygna autumnalis" ; Times: 4
+	Query: "Columbina minuta" ; Times: 1
+	Query: "Accipiter bicolor" ; Times: 1
+	Query: "Thamnophilus schistaceus" ; Times: 1
+	Query: "Penelope superciliaris mappable:1" ; Times: 1
+	Query: "Sturnella superciliaris vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Phaethornis malaris" ; Times: 1
+	Query: "Forpus xanthopterygius" ; Times: 1
+	Query: "Geotrygon violacea" ; Times: 1
+	Query: "Tachybaptus dominicus" ; Times: 1
+	Query: "Veniliornis affinis" ; Times: 1
+	Query: "Gampsonyx swainsonii" ; Times: 1
+	Query: "Ictinia plumbea" ; Times: 1
+	Query: "Amaurolimnas concolor" ; Times: 1
+	Query: "Aramus guarauna" ; Times: 1
+	Query: "Pteroglossus castanotis" ; Times: 1
+	Query: "Chelidoptera tenebrosa" ; Times: 1
+	Query: "Ara ararauna" ; Times: 1
+	Query: "Harpagus bidentatus" ; Times: 1
+	Query: "Dendrocincla merula" ; Times: 1
+	Query: "Fregata magnificens" ; Times: 1
+	Query: "Elanoides forficatus" ; Times: 1
+	Query: "Brotogeris sanctithomae" ; Times: 1
+	Query: "Willisornis poecilinotus" ; Times: 1
+	Query: "Chloroceryle amazona" ; Times: 1
+	Query: "stateprovince:&#34;Distrito Federal&#34; country:&#34;Brasil&#34;" ; Times: 1
+	Query: "Megascops choliba mappable:1" ; Times: 1
+	Query: "Myrmothera campanisona" ; Times: 1
+	Query: "Hydropsalis torquata" ; Times: 1
+	Query: "Xiphorhynchus spixii" ; Times: 1
+	Query: "Deroptyus accipitrinus" ; Times: 1
+	Query: "Campephilus rubricollis" ; Times: 1
+	Query: "Brotogeris versicolurus" ; Times: 1
+	Query: "Liosceles thoracicus" ; Times: 1
+	Query: "Milvago chimachima" ; Times: 1
+	Query: "Pulsatrix perspicillata" ; Times: 1
+	Query: "Myrmoborus myotherinus" ; Times: 1
+	Query: "Tapera naevia" ; Times: 1
+	Query: "Rostrhamus sociabilis" ; Times: 1
+	Query: "Patagioenas subvinacea" ; Times: 1
+	Query: "Geothlypis aequinoctialis mappable:1" ; Times: 1
+	Query: "Nystalus chacuru" ; Times: 1
+	Query: "Neocrex erythrops" ; Times: 1
+	Query: "Dacnis cayana mappable:1" ; Times: 1
+	Query: "Crypturellus tataupa mappable:1" ; Times: 1
+	Query: "Buteo brachyurus" ; Times: 2
+	Query: "Antilophia galeata" ; Times: 1
+	Query: "Formicarius colma" ; Times: 1
+	Query: "Megaceryle torquata mappable:1" ; Times: 1
+	Query: "nemosia" ; Times: 1
+	Query: "Ilicura militaris mappable:1" ; Times: 1
+	Query: "Zenaida auriculata" ; Times: 1
+	Query: "vntype:specimen specificepithet:cela genus:Cacicus" ; Times: 1
+	Query: "Calliphlox amethystina" ; Times: 1
+	Query: "Notharchus tectus" ; Times: 1
+	Query: "Chloroceryle amazona mappable:1" ; Times: 1
+	Query: "genus:Polioptila class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "Ramphastos toco" ; Times: 1
+	Query: "Monasa morphoeus" ; Times: 1
+	Query: "Coccyzus melacoryphus" ; Times: 1
+	Query: "Podiceps major" ; Times: 1
+	Query: "genus:Uropelia" ; Times: 1
+	Query: "Leptopogon amaurocephalus mappable:1" ; Times: 1
+	Query: "Eurypyga helias" ; Times: 1
+	Query: "Dendrocygna bicolor" ; Times: 2
+	Query: "Anodorhynchus hyacinthinus" ; Times: 3
+	Query: "Opisthocomus hoazin" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 7 (out of 962 download events in this period)
+Total number of records downloaded: 37
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: United States ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-23 ; Times: 1
+	Date: 2019-01-31 ; Times: 1
+	Date: 2019-01-25 ; Times: 2
+	Date: 2019-01-17 ; Times: 1
+	Date: 2019-01-08 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "recordedby:Maria basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "genus:sula specificepithet:leucogaster" ; Times: 1
+	Query: "sporophila lineola" ; Times: 1
+	Query: "Sturnella superciliaris vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:cela genus:Cacicus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Anodorhynchus hyacinthinus" ; Times: 1
+
+
+End of report.
