@@ -1,0 +1,141 @@
+Report for Institution Code ZUEC, Resource zuec-ave
+Usage stats for February 2019, generated on 2019/03/18
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 145
+Number of records retrieved in searches: 567
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 74
+	Country: Canada ; Times: 2
+	Country: Peru ; Times: 3
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 2
+	Country: United States ; Times: 54
+	Country: Colombia ; Times: 3
+	Country: Denmark ; Times: 1
+	Country: Argentina ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-27 ; Times: 2
+	Date: 2019-02-13 ; Times: 70
+	Date: 2019-02-26 ; Times: 1
+	Date: 2019-02-12 ; Times: 8
+	Date: 2019-02-15 ; Times: 5
+	Date: 2019-02-14 ; Times: 3
+	Date: 2019-02-04 ; Times: 19
+	Date: 2019-02-05 ; Times: 1
+	Date: 2019-02-20 ; Times: 1
+	Date: 2019-02-08 ; Times: 24
+	Date: 2019-02-09 ; Times: 1
+	Date: 2019-02-01 ; Times: 8
+	Date: 2019-02-21 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Sporophila falcirostris" ; Times: 2
+	Query: "Ramphastos vitellinus" ; Times: 2
+	Query: "Mimus saturninus mappable:1" ; Times: 2
+	Query: "asio stygius" ; Times: 2
+	Query: "Spheniscus magellanicus mappable:1" ; Times: 2
+	Query: "Tityra cayana mappable:1" ; Times: 2
+	Query: "specificepithet:aurea genus:aratinga" ; Times: 1
+	Query: "aves jequié" ; Times: 1
+	Query: "Synallaxis gujanensis" ; Times: 1
+	Query: "Tangara seledon mappable:1" ; Times: 2
+	Query: "Aratinga solstitialis" ; Times: 2
+	Query: "Turdus amaurochalinus mappable:1" ; Times: 2
+	Query: "Aramides cajanea mappable:1" ; Times: 2
+	Query: "rhynchotus" ; Times: 1
+	Query: "Tinamus tao" ; Times: 2
+	Query: "specificepithet:cactorum genus:aratinga" ; Times: 1
+	Query: "Amazona rhodocorytha" ; Times: 1
+	Query: "Pteroglossus bitorquatus" ; Times: 1
+	Query: "Sporophila maximiliani" ; Times: 2
+	Query: "Ara rubrogenys" ; Times: 2
+	Query: "Tangara palmarum mappable:1" ; Times: 2
+	Query: "Patagioenas subvinacea" ; Times: 2
+	Query: "Synallaxis infuscata" ; Times: 1
+	Query: "anodorhynchus hyacinthinus" ; Times: 1
+	Query: "Procnias nudicollis" ; Times: 2
+	Query: "catalognumber:1688" ; Times: 2
+	Query: "Tangara cyanocephala mappable:1" ; Times: 2
+	Query: "Cacicus haemorrhous mappable:1" ; Times: 2
+	Query: "Dacnis cayana mappable:1" ; Times: 2
+	Query: "Tangara ornata mappable:1" ; Times: 2
+	Query: "Sporophila cinnamomea" ; Times: 2
+	Query: "Tangara fastuosa" ; Times: 1
+	Query: "Spheniscus magellanicus" ; Times: 1
+	Query: "Ramphastos tucanus" ; Times: 2
+	Query: "Celeus flavescens mappable:1" ; Times: 2
+	Query: "Selenidera maculirostris mappable:1" ; Times: 2
+	Query: "Penelope pileata" ; Times: 1
+	Query: "Capito dayi" ; Times: 2
+	Query: "Tangara cayana mappable:1" ; Times: 2
+	Query: "Turdus leucomelas mappable:1" ; Times: 2
+	Query: "Ramphastos vitellinus mappable:1" ; Times: 2
+	Query: "Psophia viridis" ; Times: 2
+	Query: "podiceps major" ; Times: 3
+	Query: "Saltator similis mappable:1" ; Times: 2
+	Query: "Orthogonys chloricterus mappable:1" ; Times: 2
+	Query: "vntype:specimen specificepithet:rufiventris genus:Turdus class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "Trogon surrucura mappable:1" ; Times: 2
+	Query: "vntype:specimen specificepithet:superciliaris genus:Sturnella class:Aves basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Herpsilochmus pileatus" ; Times: 1
+	Query: "Turdus flavipes mappable:1" ; Times: 2
+	Query: "Neopelma aurifrons" ; Times: 1
+	Query: "Ramphastos ariel" ; Times: 1
+	Query: "Hypocnemis striata" ; Times: 1
+	Query: "Pyroderus scutatus mappable:1" ; Times: 2
+	Query: "Phacellodomus rufifrons" ; Times: 1
+	Query: "Amazona vinacea" ; Times: 2
+	Query: "Synallaxis rutilans" ; Times: 1
+	Query: "Euphonia violacea mappable:1" ; Times: 2
+	Query: "Trogon viridis mappable:1" ; Times: 2
+	Query: "ASIO STYGIUS" ; Times: 1
+	Query: "Ara ararauna" ; Times: 1
+	Query: "vntype:specimen genus:Mimus class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "Turdus rufiventris mappable:1" ; Times: 2
+	Query: "Serra do Japi" ; Times: 1
+	Query: "Tangara sayaca mappable:1" ; Times: 2
+	Query: "Crax fasciolata" ; Times: 6
+	Query: "vntype:specimen specificepithet:amaurochalinus genus:Turdus class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "Lipaugus vociferans mappable:1" ; Times: 2
+	Query: "Tangara cyanoptera mappable:1" ; Times: 2
+	Query: "Pionites leucogaster" ; Times: 1
+	Query: "Pteroglossus aracari mappable:1" ; Times: 2
+	Query: "Procnias nudicollis mappable:1" ; Times: 2
+	Query: "Nothura maculosa" ; Times: 4
+	Query: "Tachyphonus coronatus mappable:1" ; Times: 2
+	Query: "Myiodynastes maculatus mappable:1" ; Times: 2
+	Query: "Euphonia pectoralis mappable:1" ; Times: 2
+	Query: "Penelope superciliaris mappable:1" ; Times: 2
+	Query: "Anodorhynchus hyacinthinus" ; Times: 8
+	Query: "vntype:specimen specificepithet:rufiventris genus:Turdus class:aves country:&#34;brasil&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:albicollis genus:Turdus class:Aves country:&#34;Brasil&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 5 (out of 1227 download events in this period)
+Total number of records downloaded: 23
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-13 ; Times: 4
+	Date: 2019-02-05 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:aurea genus:aratinga" ; Times: 1
+	Query: "specificepithet:lineata genus:conopophaga" ; Times: 1
+	Query: "specificepithet:cactorum genus:aratinga" ; Times: 1
+	Query: "rynchops niger" ; Times: 1
+	Query: "vntype:specimen specificepithet:superciliaris genus:Sturnella class:Aves basisofrecord:PreservedSpecimen" ; Times: 1
+
+
+End of report.
