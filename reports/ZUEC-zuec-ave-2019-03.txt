@@ -1,0 +1,119 @@
+Report for Institution Code ZUEC, Resource zuec-ave
+Usage stats for March 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 73
+Number of records retrieved in searches: 238
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 37
+	Country: United States ; Times: 19
+	Country: Denmark ; Times: 3
+	Country: United Kingdom ; Times: 9
+	Country: Germany ; Times: 1
+	Country: Chile ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-27 ; Times: 6
+	Date: 2019-03-18 ; Times: 2
+	Date: 2019-03-10 ; Times: 3
+	Date: 2019-03-04 ; Times: 2
+	Date: 2019-03-30 ; Times: 3
+	Date: 2019-03-26 ; Times: 22
+	Date: 2019-03-25 ; Times: 2
+	Date: 2019-03-09 ; Times: 2
+	Date: 2019-03-22 ; Times: 3
+	Date: 2019-03-21 ; Times: 1
+	Date: 2019-03-19 ; Times: 1
+	Date: 2019-03-16 ; Times: 5
+	Date: 2019-03-17 ; Times: 4
+	Date: 2019-03-14 ; Times: 5
+	Date: 2019-03-11 ; Times: 4
+	Date: 2019-03-29 ; Times: 5
+	Date: 2019-03-08 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Pionites leucogaster" ; Times: 3
+	Query: "ara ararauna" ; Times: 7
+	Query: "Penelope superciliaris mappable:1" ; Times: 1
+	Query: "Icterus jamacaii" ; Times: 2
+	Query: "Laniisoma elegans" ; Times: 1
+	Query: "catalognumber:1393" ; Times: 1
+	Query: "Chloroceryle amazona mappable:1" ; Times: 1
+	Query: "Phalacrocorax brasilianus mappable:1" ; Times: 1
+	Query: "Patagioenas plumbea mappable:1" ; Times: 1
+	Query: "class:Aves catalognumber:1396" ; Times: 1
+	Query: "class:Aves catalognumber:1281" ; Times: 1
+	Query: "Pachyramphus polychopterus mappable:1" ; Times: 1
+	Query: "vntype:specimen genus:Anthus class:AVES country:&#34;bRASIL&#34;" ; Times: 1
+	Query: "Brotogeris chiriri" ; Times: 2
+	Query: "Chloroceryle aenea year &gt; 1990 NOT clo" ; Times: 1
+	Query: "vntype:specimen genus:Ammodramus class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "Patagioenas subvinacea" ; Times: 2
+	Query: "Geothlypis aequinoctialis mappable:1" ; Times: 1
+	Query: "podiceps major" ; Times: 2
+	Query: "Geotrygon montana mappable:1" ; Times: 1
+	Query: "Deroptyus accipitrinus mappable:1" ; Times: 1
+	Query: "Dacnis cayana mappable:1" ; Times: 1
+	Query: "Crypturellus tataupa mappable:1" ; Times: 1
+	Query: "melanopareia" ; Times: 2
+	Query: "Megaceryle torquata mappable:1" ; Times: 1
+	Query: "Orthogonys chloricterus" ; Times: 2
+	Query: "vntype:specimen genus:Zonotrichia class:Aves country:&#34;Brasil&#34;" ; Times: 2
+	Query: "Odontophorus capueira mappable:1" ; Times: 1
+	Query: "Ilicura militaris mappable:1" ; Times: 1
+	Query: "opisthocomus year &gt; 1990 NOT clo" ; Times: 1
+	Query: "Elaenia cristata mappable:1" ; Times: 1
+	Query: "Conopophaga lineata mappable:1" ; Times: 1
+	Query: "Vanellus chilensis mappable:1" ; Times: 1
+	Query: "Amazonetta brasiliensis mappable:1" ; Times: 1
+	Query: "Herpetotheres cachinnans mappable:1" ; Times: 1
+	Query: "Gallinula galeata mappable:1" ; Times: 1
+	Query: "Sterna hirundinacea mappable:1" ; Times: 1
+	Query: "Myrmotherula axillaris mappable:1" ; Times: 1
+	Query: "opisthocomus year &gt; 1990" ; Times: 1
+	Query: "Tinamus tao" ; Times: 2
+	Query: "specificepithet:galeata genus:Antilophia" ; Times: 1
+	Query: "Furnarius rufus mappable:1" ; Times: 5
+	Query: "Leptopogon amaurocephalus mappable:1" ; Times: 1
+	Query: "Elaenia chiriquensis mappable:1" ; Times: 1
+	Query: "class:Aves catalognumber:1266" ; Times: 1
+	Query: "Larus dominicanus mappable:1" ; Times: 1
+	Query: "Arundinicola leucocephala mappable:1" ; Times: 1
+	Query: "strix virgata" ; Times: 1
+	Query: "vntype:specimen genus:Arremon class:Aves country:&#34;Brasil&#34;" ; Times: 2
+	Query: "Dendrocincla turdina mappable:1" ; Times: 1
+	Query: "Lochmias nematura mappable:1" ; Times: 1
+	Query: "Megascops choliba mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 8 (out of 1281 download events in this period)
+Total number of records downloaded: 49
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United Kingdom ; Times: 6
+	Country: United States ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-16 ; Times: 2
+	Date: 2019-03-04 ; Times: 1
+	Date: 2019-03-21 ; Times: 1
+	Date: 2019-03-17 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Brotogeris chiriri" ; Times: 1
+	Query: "specificepithet:galeata genus:Antilophia" ; Times: 1
+	Query: "Psarocolius decumanus" ; Times: 1
+	Query: "Icterus jamacaii" ; Times: 1
+	Query: "Gnorimopsar chopi" ; Times: 1
+	Query: "Pionites leucogaster" ; Times: 1
+	Query: "melanopareia" ; Times: 1
+	Query: "Orthogonys chloricterus" ; Times: 1
+
+
+End of report.
