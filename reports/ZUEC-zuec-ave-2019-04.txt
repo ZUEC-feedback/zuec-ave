@@ -1,0 +1,136 @@
+Report for Institution Code ZUEC, Resource zuec-ave
+Usage stats for April 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 137
+Number of records retrieved in searches: 511
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 122
+	Country: Canada ; Times: 3
+	Country: Mexico ; Times: 1
+	Country: United States ; Times: 7
+	Country: Switzerland ; Times: 1
+	Country: Belgium ; Times: 1
+	Country: Argentina ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-04 ; Times: 5
+	Date: 2019-04-19 ; Times: 24
+	Date: 2019-04-18 ; Times: 22
+	Date: 2019-04-23 ; Times: 1
+	Date: 2019-04-11 ; Times: 1
+	Date: 2019-04-03 ; Times: 1
+	Date: 2019-04-17 ; Times: 2
+	Date: 2019-04-16 ; Times: 3
+	Date: 2019-04-15 ; Times: 2
+	Date: 2019-04-22 ; Times: 3
+	Date: 2019-04-30 ; Times: 3
+	Date: 2019-04-06 ; Times: 31
+	Date: 2019-04-07 ; Times: 2
+	Date: 2019-04-27 ; Times: 1
+	Date: 2019-04-05 ; Times: 13
+	Date: 2019-04-28 ; Times: 1
+	Date: 2019-04-29 ; Times: 3
+	Date: 2019-04-08 ; Times: 5
+	Date: 2019-04-09 ; Times: 13
+	Date: 2019-04-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Penelope superciliaris  mappable:1" ; Times: 1
+	Query: "Geotrygon montana mappable:1" ; Times: 2
+	Query: "Pulsatrix koeniswaldiana" ; Times: 1
+	Query: "Amazona aestiva mappable:1" ; Times: 25
+	Query: "Anhima cornuta" ; Times: 2
+	Query: "Patagioenas plumbea" ; Times: 1
+	Query: "Tyto furcata" ; Times: 1
+	Query: "genus:Phaeothlypis class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "genus:Parula class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "sterna hirundinacea" ; Times: 8
+	Query: "genus:basileuterus class:aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "catalognumber:1297" ; Times: 2
+	Query: "Amazilia lactea basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Penelope superciliaris" ; Times: 2
+	Query: "Lochmias nematura mappable:1" ; Times: 2
+	Query: "specificepithet:cactorum genus:aratinga" ; Times: 1
+	Query: "Pachyramphus polychopterus mappable:1" ; Times: 1
+	Query: "Registro" ; Times: 1
+	Query: "specificepithet:euleri genus:Coccyzus" ; Times: 1
+	Query: "Furnarius rufus mappable:1" ; Times: 3
+	Query: "Geothlypis aequinoctialis mappable:1" ; Times: 2
+	Query: "vntype:specimen genus:Geothlypis class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "vntype:specimen genus:Parula class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "Phaethornis bourcieri" ; Times: 4
+	Query: "catalognumber:1327" ; Times: 1
+	Query: "Dacnis cayana mappable:1" ; Times: 2
+	Query: "Cairina moschata" ; Times: 2
+	Query: "Crypturellus tataupa mappable:1" ; Times: 2
+	Query: "vntype:specimen genus:BASILEUTERUS class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "Coccyzus euleri" ; Times: 1
+	Query: "Megaceryle torquata mappable:1" ; Times: 2
+	Query: "specificepithet:aurea genus:aratinga" ; Times: 1
+	Query: "Onychorhynchus coronatus" ; Times: 5
+	Query: "Odontophorus capueira mappable:1" ; Times: 1
+	Query: "Ilicura militaris mappable:1" ; Times: 2
+	Query: "Penelope superciliaris mappable:1" ; Times: 1
+	Query: "Urubitinga urubitinga" ; Times: 1
+	Query: "Basileuterus culicivorus mappable:1" ; Times: 2
+	Query: "brasiliana" ; Times: 1
+	Query: "vntype:specimen genus:geothlypis class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "Ramphotrigon" ; Times: 2
+	Query: "Syrigma sibilatrix" ; Times: 2
+	Query: "Amazonetta brasiliensis mappable:1" ; Times: 2
+	Query: "Aramides saracura mappable:1" ; Times: 2
+	Query: "Strix virgata" ; Times: 1
+	Query: "Leptopogon amaurocephalus mappable:1" ; Times: 2
+	Query: "Pteroglossus inscriptus" ; Times: 1
+	Query: "Herpetotheres cachinnans mappable:1" ; Times: 2
+	Query: "Myrmotherula axillaris mappable:1" ; Times: 2
+	Query: "Chelidoptera tenebrosa" ; Times: 2
+	Query: "Chloroceryle amazona mappable:1" ; Times: 2
+	Query: "Ixobrychus involucris" ; Times: 2
+	Query: "Coccyzus melacoryphus" ; Times: 1
+	Query: "Gallinula galeata mappable:1" ; Times: 2
+	Query: "Patagioenas plumbea mappable:1" ; Times: 1
+	Query: "Elanus leucurus" ; Times: 2
+	Query: "class:Aves catalognumber:1202 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Heterospizias meridionalis" ; Times: 1
+	Query: "Dendrocincla turdina mappable:1" ; Times: 2
+	Query: "Arundinicola leucocephala mappable:1" ; Times: 2
+	Query: "odonata" ; Times: 1
+	Query: "vntype:specimen genus:BASILEUTERUS class:AVES country:&#34;BRASIL&#34;" ; Times: 1
+	Query: "vntype:specimen genus:Psarocolius class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "Conopophaga lineata mappable:1" ; Times: 2
+	Query: "Manacus manacus mappable:1" ; Times: 2
+	Query: "Leptotila verreauxi mappable:1" ; Times: 1
+	Query: "specificepithet:tenebrosa genus:Chelidoptera" ; Times: 1
+	Query: "Megascops choliba mappable:1" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 7 (out of 1263 download events in this period)
+Total number of records downloaded: 17
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-22 ; Times: 5
+	Date: 2019-04-29 ; Times: 1
+	Date: 2019-04-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:euleri genus:Coccyzus" ; Times: 1
+	Query: "specificepithet:fischeri genus:agapornis" ; Times: 1
+	Query: "specificepithet:aurea genus:aratinga" ; Times: 1
+	Query: "specificepithet:melacoryphus genus:Coccyzus" ; Times: 1
+	Query: "amazilia fimbriata" ; Times: 1
+	Query: "specificepithet:cactorum genus:aratinga" ; Times: 1
+	Query: "Onychorhynchus coronatus" ; Times: 1
+
+
+End of report.
