@@ -1,0 +1,400 @@
+Report for Institution Code ZUEC, Resource zuec-ave
+Usage stats for August 2019, generated on 2019/09/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 406
+Number of records retrieved in searches: 1338
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 55
+	Country: United Kingdom ; Times: 26
+	Country: Canada ; Times: 2
+	Country: Mexico ; Times: 1
+	Country: Denmark ; Times: 2
+	Country: United States ; Times: 26
+	Country: Sweden ; Times: 1
+	Country: Peru ; Times: 293
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-06 ; Times: 1
+	Date: 2019-08-08 ; Times: 2
+	Date: 2019-08-01 ; Times: 7
+	Date: 2019-08-10 ; Times: 1
+	Date: 2019-08-19 ; Times: 2
+	Date: 2019-08-16 ; Times: 6
+	Date: 2019-08-15 ; Times: 6
+	Date: 2019-08-14 ; Times: 299
+	Date: 2019-08-13 ; Times: 2
+	Date: 2019-08-05 ; Times: 28
+	Date: 2019-08-28 ; Times: 1
+	Date: 2019-08-07 ; Times: 1
+	Date: 2019-08-26 ; Times: 4
+	Date: 2019-08-24 ; Times: 3
+	Date: 2019-08-25 ; Times: 3
+	Date: 2019-08-22 ; Times: 28
+	Date: 2019-08-12 ; Times: 1
+	Date: 2019-08-20 ; Times: 10
+	Date: 2019-08-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Thamnomanes caesius" ; Times: 1
+	Query: "Thamnophilus doliatus" ; Times: 2
+	Query: "Cnemotriccus fuscatus" ; Times: 1
+	Query: "Anhima cornuta" ; Times: 1
+	Query: "Phylloscartes sylviolus" ; Times: 1
+	Query: "Aramides cajanea" ; Times: 1
+	Query: "Sicalis citrina" ; Times: 3
+	Query: "Phoenicopterus chilensis" ; Times: 1
+	Query: "Anas flavirostris" ; Times: 1
+	Query: "Conopophaga melanops" ; Times: 1
+	Query: "Trogon curucui" ; Times: 1
+	Query: "Turdus rufiventris" ; Times: 1
+	Query: "Rupornis magnirostris" ; Times: 2
+	Query: "Streptoprocne biscutata" ; Times: 1
+	Query: "Epinecrophylla leucophthalma" ; Times: 1
+	Query: "Netta peposaca" ; Times: 1
+	Query: "Brotogeris chiriri" ; Times: 1
+	Query: "Momotus momota" ; Times: 1
+	Query: "Conopophaga lineata" ; Times: 1
+	Query: "Gnorimopsar chopi" ; Times: 1
+	Query: "Bucco capensis" ; Times: 1
+	Query: "Hypocnemis striata" ; Times: 1
+	Query: "Crypturellus obsoletus" ; Times: 1
+	Query: "Tyrannus savana" ; Times: 3
+	Query: "Eupetomena macroura" ; Times: 3
+	Query: "Elaenia parvirostris" ; Times: 1
+	Query: "Podiceps major" ; Times: 1
+	Query: "Chiroxiphia pareola" ; Times: 1
+	Query: "Cairina moschata" ; Times: 1
+	Query: "Tyrannus savana savana mappable:1" ; Times: 4
+	Query: "Tyrannus savana mappable:1" ; Times: 2
+	Query: "Chlorostilbon aureoventris" ; Times: 1
+	Query: "Geotrygon violacea" ; Times: 2
+	Query: "Agelaioides badius" ; Times: 2
+	Query: "Rhynchotus rufescens" ; Times: 1
+	Query: "Galbula cyanicollis" ; Times: 1
+	Query: "Lophura nycthemera" ; Times: 1
+	Query: "Harpagus bidentatus" ; Times: 1
+	Query: "Diopsittaca nobilis" ; Times: 1
+	Query: "Hydropsalis torquata" ; Times: 1
+	Query: "Crypturellus variegatus" ; Times: 1
+	Query: "Conopophaga roberti" ; Times: 1
+	Query: "Leptotila verreauxi" ; Times: 1
+	Query: "Phaethornis hispidus" ; Times: 2
+	Query: "Icterus jamacaii" ; Times: 1
+	Query: "Spheniscus magellanicus" ; Times: 1
+	Query: "Paroaria coronata" ; Times: 1
+	Query: "Patagioenas plumbea" ; Times: 1
+	Query: "Phaethornis philippi" ; Times: 1
+	Query: "Dendrocygna bicolor" ; Times: 1
+	Query: "Elaenia sordida" ; Times: 1
+	Query: "Opisthocomus hoazin" ; Times: 1
+	Query: "Antilophia galeata mappable:1" ; Times: 1
+	Query: "Tigrisoma lineatum" ; Times: 1
+	Query: "Pteroglossus inscriptus" ; Times: 1
+	Query: "Chloroceryle inda" ; Times: 1
+	Query: "Leptopogon amaurocephalus" ; Times: 1
+	Query: "genus:Cairina specificepithet: moschata" ; Times: 1
+	Query: "Ixobrychus involucris" ; Times: 1
+	Query: "Pionus maximiliani" ; Times: 1
+	Query: "Lepidocolaptes squamatus" ; Times: 4
+	Query: "Anthus lutescens" ; Times: 1
+	Query: "Turdus fumigatus" ; Times: 1
+	Query: "Buteo brachyurus" ; Times: 2
+	Query: "Turdus flavipes" ; Times: 1
+	Query: "Claravis pretiosa" ; Times: 1
+	Query: "Larus dominicanus" ; Times: 1
+	Query: "Nyctibius griseus" ; Times: 1
+	Query: "Xiphorhynchus fuscus" ; Times: 1
+	Query: "Megaceryle torquata" ; Times: 1
+	Query: "Serpophaga subcristata" ; Times: 1
+	Query: "Amazona vinacea" ; Times: 1
+	Query: "Amazonetta brasiliensis" ; Times: 1
+	Query: "Drymophila ferruginea" ; Times: 1
+	Query: "Melanerpes candidus" ; Times: 1
+	Query: "Monasa atra" ; Times: 1
+	Query: "Nothura maculosa" ; Times: 1
+	Query: "Colaptes melanochloros" ; Times: 1
+	Query: "Picumnus pygmaeus" ; Times: 1
+	Query: "Corythopis torquatus" ; Times: 1
+	Query: "Chaetura cinereiventris" ; Times: 1
+	Query: "Patagioenas picazuro" ; Times: 1
+	Query: "Mycteria americana" ; Times: 3
+	Query: "Lurocalis semitorquatus" ; Times: 1
+	Query: "Synallaxis gujanensis" ; Times: 1
+	Query: "Thalurania glaucopis" ; Times: 1
+	Query: "Automolus paraensis" ; Times: 1
+	Query: "specificepithet:sylviolus genus:Phylloscartes" ; Times: 2
+	Query: "Euphonia cyanocephala" ; Times: 1
+	Query: "Crax fasciolata" ; Times: 1
+	Query: "Columbina squammata" ; Times: 1
+	Query: "Crypturellus soui" ; Times: 1
+	Query: "Liosceles thoracicus" ; Times: 1
+	Query: "Penelope superciliaris" ; Times: 1
+	Query: "Tinamus tao" ; Times: 1
+	Query: "Mimus saturninus" ; Times: 1
+	Query: "Chordeiles nacunda" ; Times: 1
+	Query: "Crypturellus parvirostris" ; Times: 1
+	Query: "Hylocharis cyanus" ; Times: 1
+	Query: "Phaeomyias murina" ; Times: 1
+	Query: "Ara rubrogenys" ; Times: 1
+	Query: "Leptotila rufaxilla" ; Times: 2
+	Query: "scytalopus indigoticus" ; Times: 2
+	Query: "Crypturellus noctivagus" ; Times: 1
+	Query: "Synallaxis ruficapilla" ; Times: 2
+	Query: "Synallaxis infuscata" ; Times: 2
+	Query: "Elaenia mesoleuca" ; Times: 1
+	Query: "Ramphastos dicolorus" ; Times: 2
+	Query: "Phaethornis bourcieri" ; Times: 1
+	Query: "Trogon melanurus" ; Times: 1
+	Query: "Poospiza lateralis" ; Times: 1
+	Query: "Crotophaga major" ; Times: 1
+	Query: "Chlorophonia cyanea" ; Times: 1
+	Query: "Triclaria malachitacea" ; Times: 1
+	Query: "Hemitriccus orbitatus" ; Times: 1
+	Query: "Suiriri suiriri" ; Times: 1
+	Query: "Pionus fuscus" ; Times: 1
+	Query: "Amazona rhodocorytha" ; Times: 4
+	Query: "Penelope pileata" ; Times: 1
+	Query: "Laterallus melanophaius" ; Times: 1
+	Query: "Glaucidium minutissimum" ; Times: 1
+	Query: "Sarkidiornis melanotos" ; Times: 1
+	Query: "Clytolaema rubricauda" ; Times: 1
+	Query: "Asthenes luizae" ; Times: 1
+	Query: "Coscoroba coscoroba" ; Times: 1
+	Query: "Tinamus solitarius" ; Times: 1
+	Query: "Psarocolius decumanus" ; Times: 3
+	Query: "Curaeus forbesi" ; Times: 3
+	Query: "Ammodramus humeralis" ; Times: 1
+	Query: "Geotrygon montana" ; Times: 2
+	Query: "Melanerpes flavifrons" ; Times: 1
+	Query: "passer domesticus brazil" ; Times: 1
+	Query: "Gallinula galeata" ; Times: 1
+	Query: "Pharomachrus pavoninus" ; Times: 1
+	Query: "Euscarthmus meloryphus" ; Times: 1
+	Query: "Rynchops niger" ; Times: 1
+	Query: "Glyphorynchus spirurus" ; Times: 1
+	Query: "Phacellodomus rufifrons" ; Times: 1
+	Query: "Amazona farinosa" ; Times: 1
+	Query: "Polystictus superciliaris" ; Times: 1
+	Query: "Colibri serrirostris" ; Times: 1
+	Query: "Todirostrum maculatum" ; Times: 1
+	Query: "Phalacrocorax brasilianus" ; Times: 4
+	Query: "Asio stygius" ; Times: 1
+	Query: "Odontophorus capueira" ; Times: 1
+	Query: "Butorides striata" ; Times: 1
+	Query: "Asio clamator" ; Times: 1
+	Query: "Syrigma sibilatrix" ; Times: 1
+	Query: "Falco femoralis" ; Times: 1
+	Query: "Crypturellus cinereus" ; Times: 1
+	Query: "Amazona autumnalis" ; Times: 1
+	Query: "Amazona dufresniana" ; Times: 1
+	Query: "Geothlypis aequinoctialis" ; Times: 1
+	Query: "Aratinga nenday" ; Times: 1
+	Query: "Heliomaster furcifer" ; Times: 1
+	Query: "Notharchus tectus" ; Times: 1
+	Query: "Pyrrhura frontalis" ; Times: 1
+	Query: "Pseudoleistes guirahuro" ; Times: 1
+	Query: "Rhea americana" ; Times: 2
+	Query: "Chaetura meridionalis" ; Times: 1
+	Query: "Baryphthengus ruficapillus" ; Times: 1
+	Query: "Turdus amaurochalinus" ; Times: 1
+	Query: "specificepithet:solstitialis genus:Aratinga" ; Times: 2
+	Query: "Ramphastos vitellinus" ; Times: 2
+	Query: "Anthus hellmayri" ; Times: 1
+	Query: "Dendrocygna viduata" ; Times: 1
+	Query: "Pulsatrix koeniswaldiana" ; Times: 1
+	Query: "Schiffornis turdina" ; Times: 1
+	Query: "Psophia viridis" ; Times: 2
+	Query: "Tangara fastuosa" ; Times: 1
+	Query: "Aramides saracura" ; Times: 1
+	Query: "Turdus leucomelas" ; Times: 1
+	Query: "Dendrocygna autumnalis" ; Times: 1
+	Query: "Deconychura longicauda" ; Times: 1
+	Query: "Cygnus melancoryphus" ; Times: 1
+	Query: "Megascops choliba" ; Times: 1
+	Query: "Chloroceryle aenea" ; Times: 1
+	Query: "Glaucidium hardyi" ; Times: 1
+	Query: "Amazona aestiva" ; Times: 1
+	Query: "Sakesphorus luctuosus" ; Times: 1
+	Query: "Chamaeza campanisona" ; Times: 1
+	Query: "Campephilus melanoleucos" ; Times: 1
+	Query: "Melanerpes cruentatus" ; Times: 1
+	Query: "Herpetotheres cachinnans" ; Times: 1
+	Query: "Synallaxis rutilans" ; Times: 1
+	Query: "Elaenia flavogaster" ; Times: 1
+	Query: "Trogon viridis" ; Times: 1
+	Query: "Elaenia chiriquensis" ; Times: 1
+	Query: "Terenura maculata" ; Times: 1
+	Query: "Mionectes rufiventris" ; Times: 1
+	Query: "Piculus flavigula" ; Times: 1
+	Query: "Augastes scutatus" ; Times: 1
+	Query: "Myrmotherula unicolor" ; Times: 1
+	Query: "specificepithet:unicolor genus:Myrmotherula" ; Times: 2
+	Query: "Bauhinia" ; Times: 1
+	Query: "Anthracothorax nigricollis" ; Times: 1
+	Query: "Deroptyus accipitrinus" ; Times: 1
+	Query: "Uropelia campestris" ; Times: 1
+	Query: "Phyllomyias fasciatus" ; Times: 1
+	Query: "Accipiter bicolor" ; Times: 1
+	Query: "Coccyzus euleri" ; Times: 1
+	Query: "Columbina minuta" ; Times: 1
+	Query: "Dendrocolaptes platyrostris" ; Times: 1
+	Query: "vntype:specimen genus:Molothrus class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "Molothrus oryzivorus" ; Times: 1
+	Query: "Phaethornis gounellei" ; Times: 1
+	Query: "Milvago chimachima" ; Times: 1
+	Query: "Automolus leucophthalmus" ; Times: 1
+	Query: "Molothrus bonariensis" ; Times: 1
+	Query: "Willisornis vidua" ; Times: 1
+	Query: "Euphonia pectoralis" ; Times: 1
+	Query: "Colaptes campestris" ; Times: 1
+	Query: "Lepidocolaptes angustirostris" ; Times: 2
+	Query: "Phaethornis malaris" ; Times: 1
+	Query: "Forpus xanthopterygius" ; Times: 1
+	Query: "Chauna torquata" ; Times: 1
+	Query: "Tachybaptus dominicus" ; Times: 1
+	Query: "Veniliornis affinis" ; Times: 1
+	Query: "Camptostoma obsoletum" ; Times: 1
+	Query: "genus:Chauna specificepithet:torquata " ; Times: 1
+	Query: "Ictinia plumbea" ; Times: 1
+	Query: "Ramphastos tucanus" ; Times: 2
+	Query: "Elaenia cristata" ; Times: 1
+	Query: "agelaioides badius" ; Times: 1
+	Query: "Amaurolimnas concolor" ; Times: 1
+	Query: "Melanopareia torquata" ; Times: 1
+	Query: "Celeus flavescens" ; Times: 1
+	Query: "Mackenziaena leachii" ; Times: 1
+	Query: "Leucochloris albicollis" ; Times: 1
+	Query: "micropygia" ; Times: 2
+	Query: "Aramus guarauna" ; Times: 1
+	Query: "Eudocimus ruber" ; Times: 1
+	Query: "Pteroglossus castanotis" ; Times: 1
+	Query: "Chelidoptera tenebrosa" ; Times: 1
+	Query: "Strix hylophila" ; Times: 1
+	Query: "Dendrocincla turdina" ; Times: 1
+	Query: "Dendrocincla merula" ; Times: 1
+	Query: "Selenidera gouldii" ; Times: 1
+	Query: "Aratinga solstitialis" ; Times: 1
+	Query: "Fregata magnificens" ; Times: 1
+	Query: "Myiopagis caniceps" ; Times: 1
+	Query: "Pionites leucogaster" ; Times: 1
+	Query: "Pyriglena leucoptera" ; Times: 1
+	Query: "Elanoides forficatus" ; Times: 1
+	Query: "Cacicus haemorrhous" ; Times: 1
+	Query: "Sclerurus scansor" ; Times: 4
+	Query: "Brotogeris sanctithomae" ; Times: 1
+	Query: "Phibalura flavirostris" ; Times: 4
+	Query: "Willisornis poecilinotus" ; Times: 1
+	Query: "Chloroceryle amazona" ; Times: 1
+	Query: "Phaethornis pretrei" ; Times: 1
+	Query: "Chroicocephalus cirrocephalus" ; Times: 1
+	Query: "Molothrus rufoaxillaris" ; Times: 1
+	Query: "Euphonia chlorotica" ; Times: 1
+	Query: "Coccyzus melacoryphus" ; Times: 1
+	Query: "Myrmothera campanisona" ; Times: 1
+	Query: "Estrilda astrild" ; Times: 1
+	Query: "Merulaxis ater" ; Times: 2
+	Query: "Hemitriccus minor" ; Times: 1
+	Query: "Xiphorhynchus spixii" ; Times: 1
+	Query: "Vanellus chilensis" ; Times: 1
+	Query: "Phlegopsis nigromaculata" ; Times: 1
+	Query: "Gampsonyx swainsonii" ; Times: 1
+	Query: "tangara desmaresti" ; Times: 1
+	Query: "Pachyptila belcheri" ; Times: 1
+	Query: "Micropygia schomburgkii" ; Times: 1
+	Query: "Synallaxis spixi" ; Times: 1
+	Query: "Brotogeris versicolurus" ; Times: 1
+	Query: "Sula leucogaster" ; Times: 1
+	Query: "micropygia brazil" ; Times: 6
+	Query: "Pulsatrix perspicillata" ; Times: 1
+	Query: "Myrmoborus myotherinus" ; Times: 1
+	Query: "Synallaxis frontalis" ; Times: 1
+	Query: "Tapera naevia" ; Times: 1
+	Query: "Pteroglossus bitorquatus" ; Times: 1
+	Query: "Pseudoleistes virescens" ; Times: 1
+	Query: "Rostrhamus sociabilis" ; Times: 1
+	Query: "Zenaida auriculata" ; Times: 2
+	Query: "Sterna hirundinacea" ; Times: 1
+	Query: "Nystalus chacuru" ; Times: 1
+	Query: "specificepithet:atricapilla genus:Donacobius year&gt;1980 year&lt;2020" ; Times: 1
+	Query: "Curaeus curaeus" ; Times: 1
+	Query: "Cyanoliseus patagonus" ; Times: 1
+	Query: "Knipolegus lophotes" ; Times: 3
+	Query: "Amazilia brevirostris" ; Times: 1
+	Query: "Icterus cayanensis" ; Times: 1
+	Query: "Crypturellus tataupa" ; Times: 1
+	Query: "Anas bahamensis" ; Times: 1
+	Query: "Nycticryphes semicollaris" ; Times: 1
+	Query: "Formicarius colma" ; Times: 1
+	Query: "Brotogeris cyanoptera" ; Times: 1
+	Query: "Pteroglossus aracari" ; Times: 1
+	Query: "Trogon surrucura" ; Times: 1
+	Query: "Drymophila malura" ; Times: 1
+	Query: "Ardea cocoi" ; Times: 1
+	Query: "Herpsilochmus pileatus" ; Times: 1
+	Query: "Cariama cristata" ; Times: 1
+	Query: "Xiphorhynchus pardalotus" ; Times: 1
+	Query: "Cranioleuca pallida" ; Times: 1
+	Query: "Capito dayi" ; Times: 1
+	Query: "Amazilia lactea" ; Times: 1
+	Query: "Brotogeris tirica" ; Times: 1
+	Query: "Amazona amazonica" ; Times: 1
+	Query: "augastes scutatus" ; Times: 2
+	Query: "Formicivora rufa" ; Times: 1
+	Query: "Lochmias nematura" ; Times: 1
+	Query: "Elaenia obscura" ; Times: 1
+	Query: "Phaethornis squalidus" ; Times: 1
+	Query: "Todirostrum poliocephalum" ; Times: 1
+	Query: "Selenidera maculirostris" ; Times: 1
+	Query: "Dendrocincla fuliginosa" ; Times: 1
+	Query: "Thamnophilus schistaceus" ; Times: 1
+	Query: "Campephilus rubricollis" ; Times: 1
+	Query: "Ara ararauna" ; Times: 6
+	Query: "Tolmomyias flaviventris" ; Times: 1
+	Query: "Ramphastos toco" ; Times: 3
+	Query: "Piculus aurulentus" ; Times: 1
+	Query: "Monasa morphoeus" ; Times: 1
+	Query: "Veniliornis mixtus" ; Times: 1
+	Query: "Anodorhynchus hyacinthinus" ; Times: 3
+	Query: "Picumnus cirratus" ; Times: 1
+	Query: "Patagioenas subvinacea" ; Times: 1
+	Query: "Calliphlox amethystina" ; Times: 2
+	Query: "Eurypyga helias" ; Times: 1
+	Query: "Thamnophilus ruficapillus" ; Times: 1
+	Query: "Amazilia versicolor" ; Times: 1
+	Query: "Monasa nigrifrons" ; Times: 1
+	Query: "Arremon flavirostris" ; Times: 1
+	Query: "Laterallus leucopyrrhus" ; Times: 1
+	Query: "sporophila cinnamomea" ; Times: 1
+	Query: "Florisuga fusca" ; Times: 1
+	Query: "Euphonia violacea" ; Times: 1
+	Query: "Trogon collaris" ; Times: 1
+	Query: "Aratinga jandaya" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 6 (out of 1034 download events in this period)
+Total number of records downloaded: 14
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-25 ; Times: 4
+	Date: 2019-08-22 ; Times: 1
+	Date: 2019-08-10 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Phaethornis hispidus" ; Times: 1
+	Query: "Phaethornis gounellei" ; Times: 1
+	Query: "Phaethornis bourcieri" ; Times: 1
+	Query: "psophia" ; Times: 1
+	Query: "Phaethornis philippi" ; Times: 1
+	Query: "Glyphorynchus spirurus" ; Times: 1
+
+
+End of report.
