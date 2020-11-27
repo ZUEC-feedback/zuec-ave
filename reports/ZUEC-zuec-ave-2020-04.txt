@@ -1,0 +1,128 @@
+Report for Institution Code ZUEC, Resource zuec-ave
+Usage stats for April 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 248
+Number of records retrieved in searches: 969
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 20
+	Country: United States ; Times: 2
+	Country: Unknown ; Times: 1
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 223
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-07 ; Times: 94
+	Date: 2020-04-13 ; Times: 1
+	Date: 2020-04-17 ; Times: 1
+	Date: 2020-04-16 ; Times: 1
+	Date: 2020-04-14 ; Times: 12
+	Date: 2020-04-22 ; Times: 1
+	Date: 2020-04-06 ; Times: 1
+	Date: 2020-04-21 ; Times: 65
+	Date: 2020-04-01 ; Times: 10
+	Date: 2020-04-03 ; Times: 42
+	Date: 2020-04-29 ; Times: 3
+	Date: 2020-04-08 ; Times: 16
+	Date: 2020-04-09 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen specificepithet:cyaneus genus:Cyanerpes class:Aves country:&#34;Brasil&#34;" ; Times: 2
+	Query: "Progne chalybea" ; Times: 7
+	Query: "Bubulcus ibis" ; Times: 11
+	Query: "Ardea alba" ; Times: 9
+	Query: "genus:antilophia" ; Times: 1
+	Query: "Chrysolophus pictus" ; Times: 3
+	Query: "Vanellus chilensis" ; Times: 6
+	Query: "Hylocharis cyanus" ; Times: 7
+	Query: "vntype:specimen genus:Tersina class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "Cygnus melancoryphus" ; Times: 3
+	Query: "Aratinga solstitialis" ; Times: 1
+	Query: "vntype:specimen class:Aves institutioncode:ZUEC basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:caeruleus genus:Cyanerpes class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "Rupornis magnirostris" ; Times: 4
+	Query: "Alectoris rufa" ; Times: 6
+	Query: "genus:Anodorhynchus" ; Times: 1
+	Query: "class:Aves stateprovince:Rio Grande do Sul" ; Times: 3
+	Query: "Geotrygon montana" ; Times: 3
+	Query: "F. domesticus" ; Times: 5
+	Query: "vntype:specimen genus:Cyanerpes class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "Aix galericulata" ; Times: 2
+	Query: "genus:Cyanerpes class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "vntype:specimen genus:tersina class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "Poospiza lateralis" ; Times: 3
+	Query: "Cairina moschata" ; Times: 8
+	Query: "Chrysolophus amherstiae" ; Times: 3
+	Query: "Geotrygon violacea" ; Times: 3
+	Query: "Agelaioides badius" ; Times: 2
+	Query: "Amazilia fimbriata" ; Times: 3
+	Query: "Tangara cayana" ; Times: 1
+	Query: "Sarkidiornis melanotos" ; Times: 11
+	Query: "Lophura nycthemera" ; Times: 3
+	Query: "specificepithet:turdina genus:Schiffornis basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Buteo albicaudatus" ; Times: 5
+	Query: "Saltator similis" ; Times: 5
+	Query: "Zenaida auriculata" ; Times: 3
+	Query: "Buteo brachyurus" ; Times: 4
+	Query: "Amazilia lactea" ; Times: 4
+	Query: "Gnorimopsar chopi" ; Times: 3
+	Query: "Butorides striata" ; Times: 9
+	Query: "M. reevesi" ; Times: 3
+	Query: "Odonata" ; Times: 1
+	Query: "Rynchops niger" ; Times: 6
+	Query: "Turdus rufiventris" ; Times: 15
+	Query: "Aramus guarauna" ; Times: 4
+	Query: "Phalacrocorax brasilianus" ; Times: 4
+	Query: "Eudocimus ruber" ; Times: 3
+	Query: "Alectoris chukar" ; Times: 6
+	Query: "Amazilia brevirostris" ; Times: 3
+	Query: "Larus dominicanus" ; Times: 6
+	Query: "Calliphlox amethystina" ; Times: 3
+	Query: "Fregata magnificens" ; Times: 3
+	Query: "class:Aves stateprovince:Rio Grande" ; Times: 6
+	Query: "Amazilia versicolor" ; Times: 3
+	Query: "Tachycineta leucorrhoa" ; Times: 7
+	Query: "Athene cunicularia grallaria" ; Times: 1
+	Query: "Spheniscus magellanicus" ; Times: 4
+	Query: "Amazonetta brasiliensis" ; Times: 6
+	Query: "Pseudoleistes virescens" ; Times: 3
+	Query: "lurocalis" ; Times: 1
+	Query: "Rhea americana" ; Times: 3
+	Query: "Netta rufina" ; Times: 6
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 9 (out of 1171 download events in this period)
+Total number of records downloaded: 47
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+	Country: Brazil ; Times: 4
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-17 ; Times: 1
+	Date: 2020-04-16 ; Times: 1
+	Date: 2020-04-22 ; Times: 4
+	Date: 2020-04-06 ; Times: 1
+	Date: 2020-04-21 ; Times: 1
+	Date: 2020-04-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "nyctibius griseus" ; Times: 1
+	Query: "Cnemotriccus fuscatus" ; Times: 1
+	Query: "lurocalis" ; Times: 1
+	Query: "Aratinga solstitialis" ; Times: 1
+	Query: "Coereba flaveola" ; Times: 1
+	Query: "Athene cunicularia grallaria" ; Times: 1
+	Query: "Gallinago gallinago" ; Times: 1
+	Query: "Tangara cayana" ; Times: 1
+
+
+End of report.
