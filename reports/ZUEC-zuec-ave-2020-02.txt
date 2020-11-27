@@ -1,0 +1,87 @@
+Report for Institution Code ZUEC, Resource zuec-ave
+Usage stats for February 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 32
+Number of records retrieved in searches: 185
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 23
+	Country: United Kingdom ; Times: 3
+	Country: Netherlands ; Times: 1
+	Country: United States ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-17 ; Times: 4
+	Date: 2020-02-27 ; Times: 1
+	Date: 2020-02-05 ; Times: 1
+	Date: 2020-02-13 ; Times: 1
+	Date: 2020-02-14 ; Times: 2
+	Date: 2020-02-11 ; Times: 1
+	Date: 2020-02-03 ; Times: 2
+	Date: 2020-02-26 ; Times: 5
+	Date: 2020-02-12 ; Times: 1
+	Date: 2020-02-06 ; Times: 1
+	Date: 2020-02-07 ; Times: 1
+	Date: 2020-02-22 ; Times: 1
+	Date: 2020-02-23 ; Times: 3
+	Date: 2020-02-18 ; Times: 2
+	Date: 2020-02-20 ; Times: 1
+	Date: 2020-02-28 ; Times: 4
+	Date: 2020-02-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen specificepithet:surinamus genus:Lanio class:Aves country:&#34;Brasil&#34;" ; Times: 2
+	Query: "vntype:specimen class:Aves recordedby:Brown year &gt;= 2004 year &lt;= 2020" ; Times: 1
+	Query: "vntype:specimen genus:Lanio class:Aves country:&#34;Brasil&#34;" ; Times: 2
+	Query: "vntype:specimen genus:lanio class:Aves country:&#34;Brasil&#34;" ; Times: 3
+	Query: "vntype:specimen specificepithet:pileatus genus:Lanio class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "specificepithet:Caesius genus:Thamnomanes country:&#34;Brasil&#34;" ; Times: 1
+	Query: "Penelope pileata" ; Times: 2
+	Query: "trogon viridis brazil" ; Times: 1
+	Query: "vntype:specimen specificepithet:cucullatus genus:Lanio class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "vntype:specimen genus:Volatinia class:Aves country:&#34;Brasil&#34;" ; Times: 2
+	Query: "class:aves catalognumber:755" ; Times: 1
+	Query: "vntype:specimen specificepithet:cristatus genus:lanio class:Aves country:&#34;Brasil&#34;" ; Times: 3
+	Query: "sicalis citrina" ; Times: 2
+	Query: "anthus hellmayri" ; Times: 1
+	Query: "Eurypyga helias" ; Times: 2
+	Query: "vntype:specimen specificepithet:domesticus genus:passer institutioncode:ZUEC" ; Times: 1
+	Query: "vntype:specimen specificepithet:rufiventer genus:lanio class:Aves country:&#34;Brasil&#34;" ; Times: 2
+	Query: "vntype:specimen specificepithet:domesticus genus:passer year &gt;= 1951 year &lt;= 2020 institutioncode:ZUEC" ; Times: 1
+	Query: "catalognumber:832" ; Times: 1
+	Query: "vntype:specimen genus:Trichothraupis class:Aves country:&#34;Brasil&#34;" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 9 (out of 1023 download events in this period)
+Total number of records downloaded: 7266
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: United States ; Times: 2
+	Country: Netherlands ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-19 ; Times: 2
+	Date: 2020-02-25 ; Times: 1
+	Date: 2020-02-13 ; Times: 2
+	Date: 2020-02-04 ; Times: 2
+	Date: 2020-02-22 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "class:aves stateprovince:&#34;minas gerais&#34;" ; Times: 1
+	Query: "anthus lutescens" ; Times: 1
+	Query: "class:Aves (Aves AND Brasil OR Brazil)" ; Times: 1
+	Query: "athene cunicularia" ; Times: 1
+	Query: "vntype:specimen specificepithet:domesticus genus:passer" ; Times: 1
+	Query: "class:Aves country:&#34;Brasil&#34; (Aves AND Brasil OR Brazil)" ; Times: 1
+	Query: "anthus hellmayri" ; Times: 1
+	Query: "class:Aves country:&#34;Brazil&#34; OR &#34;Brasil&#34;" ; Times: 1
+	Query: "class:Aves country:&#34;Brasil&#34;" ; Times: 1
+
+
+End of report.
