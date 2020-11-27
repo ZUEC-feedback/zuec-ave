@@ -1,0 +1,85 @@
+Report for Institution Code ZUEC, Resource zuec-ave
+Usage stats for May 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 24
+Number of records retrieved in searches: 196
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 20
+	Country: United States ; Times: 1
+	Country: France ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-24 ; Times: 1
+	Date: 2020-05-04 ; Times: 1
+	Date: 2020-05-23 ; Times: 1
+	Date: 2020-05-29 ; Times: 2
+	Date: 2020-05-28 ; Times: 1
+	Date: 2020-05-01 ; Times: 1
+	Date: 2020-05-08 ; Times: 1
+	Date: 2020-05-07 ; Times: 1
+	Date: 2020-05-06 ; Times: 4
+	Date: 2020-05-12 ; Times: 1
+	Date: 2020-05-13 ; Times: 2
+	Date: 2020-05-14 ; Times: 7
+	Date: 2020-05-16 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen specificepithet:CAYANA genus:Dacnis class:Aves country:&#34;BraSil&#34;" ; Times: 1
+	Query: "Ilicura militaris" ; Times: 1
+	Query: "vntype:specimen genus:Coereba class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "vntype:specimen genus:sporophila class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:schistacea genus:Sporophila class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "ilicura militaris" ; Times: 1
+	Query: "genus:Dacnis country:&#34;Brasil&#34;" ; Times: 1
+	Query: "Geotrygon violacea" ; Times: 1
+	Query: "vntype:specimen specificepithet:nigricollis genus:Sporophila class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "myrmoborus myotherinus" ; Times: 1
+	Query: "amazona rhodocorytha" ; Times: 1
+	Query: "vntype:specimen genus:Tiaris class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "Anas bahamensis" ; Times: 1
+	Query: "vntype:specimen genus:coereba class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "synallaxis infuscata" ; Times: 2
+	Query: "gbifdatasetid:db44543f-c1f5-4241-b9ab-1ed1c1b4ece1" ; Times: 1
+	Query: "vntype:specimen specificepithet:lineola genus:sporophila class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "automolus leucophthalmus" ; Times: 2
+	Query: "vntype:specimen genus:Dacnis class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "specificepithet:militaris genus:Ilicura" ; Times: 1
+	Query: "vntype:specimen specificepithet:lineola genus:Sporophila class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:falcirostris genus:Sporophila class:Aves country:&#34;Brasil&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 9 (out of 1106 download events in this period)
+Total number of records downloaded: 1989
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 7
+	Country: United States ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-06 ; Times: 3
+	Date: 2020-05-04 ; Times: 1
+	Date: 2020-05-14 ; Times: 3
+	Date: 2020-05-03 ; Times: 1
+	Date: 2020-05-19 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Goiás vntype:specimen class:Aves" ; Times: 1
+	Query: "automolus leucophthalmus" ; Times: 1
+	Query: "specificepithet:militaris genus:Ilicura" ; Times: 1
+	Query: "Ilicura militaris" ; Times: 1
+	Query: "manacus manacus" ; Times: 1
+	Query: "vntype:specimen class:Aves country:&#34;Brasil&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Geotrygon montana montana" ; Times: 1
+	Query: "Platyrinchus mystaceus mystaceus" ; Times: 1
+	Query: "Geotrygon violacea" ; Times: 1
+
+
+End of report.
