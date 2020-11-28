@@ -1,0 +1,123 @@
+Report for Institution Code ZUEC, Resource zuec-ave
+Usage stats for October 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 76
+Number of records retrieved in searches: 214
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 22
+	Country: United States ; Times: 8
+	Country: Netherlands ; Times: 12
+	Country: Unknown ; Times: 16
+	Country: United Kingdom ; Times: 10
+	Country: Austria ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Denmark ; Times: 1
+	Country: Argentina ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-09 ; Times: 7
+	Date: 2020-10-08 ; Times: 11
+	Date: 2020-10-18 ; Times: 1
+	Date: 2020-10-26 ; Times: 3
+	Date: 2020-10-22 ; Times: 4
+	Date: 2020-10-12 ; Times: 4
+	Date: 2020-10-13 ; Times: 17
+	Date: 2020-10-03 ; Times: 2
+	Date: 2020-10-28 ; Times: 2
+	Date: 2020-10-05 ; Times: 4
+	Date: 2020-10-21 ; Times: 6
+	Date: 2020-10-07 ; Times: 4
+	Date: 2020-10-17 ; Times: 1
+	Date: 2020-10-30 ; Times: 2
+	Date: 2020-10-23 ; Times: 3
+	Date: 2020-10-15 ; Times: 2
+	Date: 2020-10-06 ; Times: 1
+	Date: 2020-10-16 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen specificepithet:nattereri family:pipridae" ; Times: 1
+	Query: "vntype:specimen genus:Netta class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "Sporophila lineola" ; Times: 1
+	Query: "scientificname:Penelope pileata" ; Times: 1
+	Query: "Vanellus chilensis" ; Times: 1
+	Query: "vntype:specimen specificepithet:turdina genus:schiffornis" ; Times: 1
+	Query: "scientificname:Crax fasciolata" ; Times: 1
+	Query: "Micropygia schomburgkii" ; Times: 4
+	Query: "Turdus rufiventris" ; Times: 1
+	Query: "mappable:1 scientificname:Cyanocompsa cyanea" ; Times: 15
+	Query: "specificepithet:lactea genus:Amazilia" ; Times: 1
+	Query: "vntype:specimen specificepithet:iris family:pipridae" ; Times: 1
+	Query: "specificepithet:furcifer genus:Heliomaster class:aves" ; Times: 1
+	Query: "specificepithet:flavifrons genus:Melanerpes basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Cairina moschata" ; Times: 1
+	Query: "genus:Rynchops basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "vntype:specimen genus:Oxyura class:Aves country:&#34;Brasil&#34;" ; Times: 2
+	Query: "mappable:1 scientificname:Herpetotheres cachinnans" ; Times: 2
+	Query: "scientificname:Aix sponsa" ; Times: 8
+	Query: "scientificname:Dixiphia pipra" ; Times: 1
+	Query: "Buteo albicaudatus" ; Times: 1
+	Query: "crypturellus obsoletus" ; Times: 1
+	Query: "scientificname:Ara ararauna" ; Times: 1
+	Query: "Rynchops niger" ; Times: 1
+	Query: "genus:Rynchops" ; Times: 1
+	Query: "mappable:1 scientificname:Amazona aestiva" ; Times: 11
+	Query: "specificepithet:hyacinthinus genus:Anodorhynchus" ; Times: 2
+	Query: "arremon flavirostris" ; Times: 1
+	Query: "Haematopus palliatus" ; Times: 1
+	Query: "Phalacrocorax brasilianus" ; Times: 1
+	Query: "scientificname:Tadorna ferruginea" ; Times: 1
+	Query: "Larus dominicanus" ; Times: 1
+	Query: "scientificname:Penelope superciliaris" ; Times: 1
+	Query: "anthus hellmayri" ; Times: 1
+	Query: "Willisornis poecilinotus" ; Times: 1
+	Query: "Willisornis year &gt;= 2000 year &lt;= 2020" ; Times: 1
+	Query: "Rhytipterna simplex" ; Times: 1
+	Query: "vntype:specimen genus:Anas class:Aves country:&#34;Brasil&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 17 (out of 1521 download events in this period)
+Total number of records downloaded: 4536
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: United States ; Times: 4
+	Country: Netherlands ; Times: 2
+	Country: Denmark ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: Unknown ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-23 ; Times: 3
+	Date: 2020-10-08 ; Times: 3
+	Date: 2020-10-20 ; Times: 2
+	Date: 2020-10-27 ; Times: 1
+	Date: 2020-10-26 ; Times: 2
+	Date: 2020-10-12 ; Times: 2
+	Date: 2020-10-03 ; Times: 2
+	Date: 2020-10-15 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen family:Ramphastidae" ; Times: 1
+	Query: "vntype:specimen specificepithet:nattereri family:pipridae" ; Times: 1
+	Query: "anthus lutescens" ; Times: 1
+	Query: "vntype:specimen specificepithet:cunicularia genus:athene" ; Times: 1
+	Query: "aves brazil" ; Times: 1
+	Query: "specificepithet:fimbriata genus:Amazilia" ; Times: 2
+	Query: "aves brasil" ; Times: 1
+	Query: "specificepithet:lactea genus:Amazilia" ; Times: 1
+	Query: "crypturellus obsoletus" ; Times: 2
+	Query: "vntype:specimen specificepithet:iris family:pipridae" ; Times: 1
+	Query: "Caracara plancus" ; Times: 1
+	Query: "genus:Odontophorus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "anthus hellmayri" ; Times: 1
+	Query: "specificepithet:hyacinthinus genus:Anodorhynchus" ; Times: 1
+	Query: "vntype:specimen order:Coraciiformes" ; Times: 1
+
+
+End of report.
