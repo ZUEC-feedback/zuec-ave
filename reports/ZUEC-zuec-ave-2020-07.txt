@@ -1,0 +1,84 @@
+Report for Institution Code ZUEC, Resource zuec-ave
+Usage stats for July 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 32
+Number of records retrieved in searches: 91
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 23
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: Denmark ; Times: 1
+	Country: United States ; Times: 2
+	Country: Colombia ; Times: 1
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-22 ; Times: 1
+	Date: 2020-07-18 ; Times: 2
+	Date: 2020-07-20 ; Times: 1
+	Date: 2020-07-27 ; Times: 2
+	Date: 2020-07-26 ; Times: 1
+	Date: 2020-07-16 ; Times: 1
+	Date: 2020-07-13 ; Times: 4
+	Date: 2020-07-02 ; Times: 2
+	Date: 2020-07-30 ; Times: 4
+	Date: 2020-07-21 ; Times: 4
+	Date: 2020-07-14 ; Times: 9
+	Date: 2020-07-07 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "strix hylophila" ; Times: 1
+	Query: "Pulsatrix koeniswaldiana" ; Times: 1
+	Query: "specificepithet:superciliaris order:galliformes" ; Times: 1
+	Query: "specificepithet:erythrops genus:neocrex" ; Times: 2
+	Query: "tachycineta leucorrhoa" ; Times: 1
+	Query: "vntype:specimen specificepithet:angolensis genus:Sporophila class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:similis genus:Saltator class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "Brazil Palmares" ; Times: 1
+	Query: "vntype:specimen genus:Poospiza class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "Sporophila maximiliani" ; Times: 1
+	Query: "Neocrex erythrops" ; Times: 2
+	Query: "genus:machetornis" ; Times: 1
+	Query: "vntype:specimen genus:emberizoides class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "Amazilia lactea" ; Times: 1
+	Query: "vntype:specimen genus:embernagra class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "vntype:specimen genus:Cypsnagra class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "vntype:specimen genus:Thlypopsis class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "Strix hylophila" ; Times: 5
+	Query: "vntype:specimen specificepithet:atricollis genus:saltator class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:maximus genus:Saltator class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "catalognumber:2201 year &gt;= 1932" ; Times: 1
+	Query: "Euphonia cyanocephala" ; Times: 2
+	Query: "vntype:specimen genus:Pyrrhocoma class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "Glaucidium minutissimum" ; Times: 1
+	Query: "vntype:specimen genus:saltator class:Aves country:&#34;Brasil&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 5 (out of 940 download events in this period)
+Total number of records downloaded: 14
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Colombia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-13 ; Times: 2
+	Date: 2020-07-02 ; Times: 1
+	Date: 2020-07-26 ; Times: 1
+	Date: 2020-07-06 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:superciliaris order:galliformes" ; Times: 1
+	Query: "estrilda astrild" ; Times: 1
+	Query: "Neocrex erythrops" ; Times: 3
+
+
+End of report.
