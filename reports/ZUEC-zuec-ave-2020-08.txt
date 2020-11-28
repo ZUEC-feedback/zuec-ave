@@ -1,0 +1,135 @@
+Report for Institution Code ZUEC, Resource zuec-ave
+Usage stats for August 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 90
+Number of records retrieved in searches: 355
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 20
+	Country: United States ; Times: 13
+	Country: United Kingdom ; Times: 16
+	Country: Portugal ; Times: 41
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-28 ; Times: 4
+	Date: 2020-08-10 ; Times: 44
+	Date: 2020-08-14 ; Times: 1
+	Date: 2020-08-13 ; Times: 2
+	Date: 2020-08-12 ; Times: 4
+	Date: 2020-08-06 ; Times: 2
+	Date: 2020-08-29 ; Times: 4
+	Date: 2020-08-04 ; Times: 4
+	Date: 2020-08-18 ; Times: 5
+	Date: 2020-08-31 ; Times: 1
+	Date: 2020-08-11 ; Times: 3
+	Date: 2020-08-21 ; Times: 16
+
+List of queries that retrieved data from the resource: 
+	Query: "mappable:1 scientificname:Zenaida auriculata" ; Times: 1
+	Query: "genus:Estrilda class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "mappable:1 scientificname:Pyrrhura frontalis" ; Times: 1
+	Query: "vntype:specimen genus:Piranga class:Aves country:&#34;Brasil&#34;" ; Times: 2
+	Query: "vntype:specimen genus:passer class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "Psittacula alexandri" ; Times: 1
+	Query: "Chrysolophus pictus" ; Times: 1
+	Query: "mappable:1 scientificname:Caracara plancus" ; Times: 1
+	Query: "Vanellus chilensis" ; Times: 1
+	Query: "mappable:1 scientificname:Anas flavirostris" ; Times: 1
+	Query: "mappable:1 scientificname:Eudocimus ruber" ; Times: 1
+	Query: "mappable:1 scientificname:Estrilda astrild" ; Times: 1
+	Query: "vntype:specimen genus:Passerina class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "mappable:1 scientificname:Lophura nycthemera" ; Times: 1
+	Query: "mappable:1 scientificname:Aratinga leucophthalmus" ; Times: 1
+	Query: "genus:Augastes" ; Times: 2
+	Query: "mappable:1 scientificname:Agapornis roseicollis" ; Times: 1
+	Query: "hydropsalis torquata" ; Times: 1
+	Query: "vntype:specimen genus:sporagra class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "mappable:1 scientificname:Cygnus melancoryphus" ; Times: 1
+	Query: "mappable:1 scientificname:Aix galericulata" ; Times: 1
+	Query: "specificepithet:macroura genus:Eupetomena" ; Times: 4
+	Query: "mappable:1 scientificname:Aratinga aurea" ; Times: 1
+	Query: "Turdus rufiventris" ; Times: 1
+	Query: "vntype:specimen genus:PIRANGA class:Aves country:&#34;BraSil&#34;" ; Times: 1
+	Query: "mappable:1 scientificname:Sicalis flaveola" ; Times: 1
+	Query: "mappable:1 scientificname:Amazona farinosa" ; Times: 1
+	Query: "mappable:1 scientificname:Aratinga nenday" ; Times: 1
+	Query: "genus:Pygochelidon" ; Times: 2
+	Query: "mappable:1 scientificname:Paroaria coronata" ; Times: 1
+	Query: "mappable:1 scientificname:Brotogeris chiriri" ; Times: 1
+	Query: "mappable:1 scientificname:Agapornis personata" ; Times: 1
+	Query: "mappable:1 scientificname:Sicalis luteola" ; Times: 1
+	Query: "mappable:1 scientificname:Alectoris chukar" ; Times: 1
+	Query: "Chrysolophus amherstiae" ; Times: 1
+	Query: "mappable:1 scientificname:Geopelia cuneata" ; Times: 1
+	Query: "vntype:specimen specificepithet:pectoralis genus:Euphonia class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "mappable:1 scientificname:Paroaria capitata" ; Times: 1
+	Query: "mappable:1 scientificname:Columbina talpacoti" ; Times: 1
+	Query: "vntype:specimen genus:Pyrrhocoma class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "vntype:specimen genus:Cyanocompsa class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "Lophura nycthemera" ; Times: 1
+	Query: "mappable:1 scientificname:Aratinga cactorum" ; Times: 1
+	Query: "vntype:specimen genus:Cypsnagra class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "genus:Habia class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "mappable:1 scientificname:Diopsittaca nobilis" ; Times: 1
+	Query: "Saltator similis" ; Times: 1
+	Query: "mappable:1 scientificname:Ara chloroptera" ; Times: 1
+	Query: "specificepithet:gounellei genus:Phaethornis" ; Times: 2
+	Query: "mappable:1 scientificname:Herpetotheres cachinnans" ; Times: 1
+	Query: "Cairina moschata" ; Times: 1
+	Query: "vntype:specimen genus:Thlypopsis class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "Paroaria coronata" ; Times: 1
+	Query: "mappable:1 scientificname:Sarkidiornis melanotos" ; Times: 1
+	Query: "M. reevesi" ; Times: 1
+	Query: "Rynchops niger" ; Times: 1
+	Query: "mappable:1 scientificname:Ara ararauna" ; Times: 1
+	Query: "vntype:specimen genus:Euphonia class:Aves country:&#34;Brasil&#34;" ; Times: 2
+	Query: "vntype:specimen specificepithet:violacea genus:Euphonia class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "mappable:1 scientificname:Chloebia gouldiae" ; Times: 1
+	Query: "vntype:specimen genus:Chlorophonia class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "specificepithet:scutatus genus:Augastes" ; Times: 1
+	Query: "mappable:1 scientificname:Amazona aestiva" ; Times: 1
+	Query: "Phalacrocorax brasilianus" ; Times: 1
+	Query: "vntype:specimen genus:Passer class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "mappable:1 scientificname:Larus dominicanus" ; Times: 1
+	Query: "mappable:1 scientificname:Tyrannus savana" ; Times: 1
+	Query: "vntype:specimen specificepithet:chlorotica genus:Euphonia class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "mappable:1 scientificname:Cacicus cela" ; Times: 1
+	Query: "Progne chalybea" ; Times: 1
+	Query: "Larus dominicanus" ; Times: 1
+	Query: "mappable:1 scientificname:Falco femoralis" ; Times: 1
+	Query: "vntype:specimen genus:ESTRILDA class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "mappable:1 scientificname:Amazona amazonica" ; Times: 1
+	Query: "F. domesticus" ; Times: 1
+	Query: "mappable:1 scientificname:Ara rubrogenys" ; Times: 1
+	Query: "Tachycineta leucorrhoa" ; Times: 1
+	Query: "mappable:1 scientificname:Dendrocygna autumnalis" ; Times: 1
+	Query: "mappable:1 scientificname:Elanoides forficatus" ; Times: 1
+	Query: "Pyrrhura frontalis" ; Times: 1
+	Query: "mappable:1 scientificname:Amazonetta brasiliensis" ; Times: 1
+	Query: "mappable:1 scientificname:Guira guira" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 756 download events in this period)
+Total number of records downloaded: 21
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-03 ; Times: 2
+	Date: 2020-08-13 ; Times: 1
+	Date: 2020-08-05 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Sporophila lineola" ; Times: 2
+	Query: "Schiffornis turdina" ; Times: 1
+	Query: "Lipaugus vociferans" ; Times: 1
+
+
+End of report.
