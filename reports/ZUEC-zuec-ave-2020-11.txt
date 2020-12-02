@@ -1,0 +1,124 @@
+Report for Institution Code ZUEC, Resource zuec-ave
+Usage stats for November 2020, generated on 2020/12/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 97
+Number of records retrieved in searches: 291
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 7
+	Country: Brazil ; Times: 40
+	Country: Netherlands ; Times: 3
+	Country: United States ; Times: 13
+	Country: Unknown ; Times: 34
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-11-22 ; Times: 2
+	Date: 2020-11-05 ; Times: 2
+	Date: 2020-11-25 ; Times: 11
+	Date: 2020-11-08 ; Times: 1
+	Date: 2020-11-09 ; Times: 5
+	Date: 2020-11-02 ; Times: 6
+	Date: 2020-11-04 ; Times: 1
+	Date: 2020-11-16 ; Times: 1
+	Date: 2020-11-11 ; Times: 3
+	Date: 2020-11-10 ; Times: 2
+	Date: 2020-11-13 ; Times: 43
+	Date: 2020-11-12 ; Times: 16
+	Date: 2020-11-26 ; Times: 1
+	Date: 2020-11-30 ; Times: 2
+	Date: 2020-11-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "mappable:1 scientificname:Herpsilochmus pileatus" ; Times: 1
+	Query: "mappable:1 scientificname:Synallaxis ruficapilla" ; Times: 1
+	Query: "mappable:1 scientificname:Pyrrhura frontalis" ; Times: 3
+	Query: "Bubulcus ibis" ; Times: 2
+	Query: "mappable:1 scientificname:Drymophila malura" ; Times: 1
+	Query: "mappable:1 scientificname:Phaethornis squalidus" ; Times: 5
+	Query: "mappable:1 scientificname:Drymophila ferruginea" ; Times: 1
+	Query: "mappable:1 scientificname:Haplospiza unicolor" ; Times: 1
+	Query: "mappable:1 scientificname:Philydor lichtensteini" ; Times: 1
+	Query: "Cygnus melancoryphus" ; Times: 2
+	Query: "mappable:1 scientificname:Ramphocelus bresilius" ; Times: 1
+	Query: "mappable:1 scientificname:Neopelma aurifrons" ; Times: 1
+	Query: "mappable:1 scientificname:Todirostrum poliocephalum" ; Times: 1
+	Query: "mappable:1 scientificname:Thalurania glaucopis" ; Times: 1
+	Query: "mappable:1 scientificname:Laniisoma elegans" ; Times: 1
+	Query: "mappable:1 scientificname:Hemitriccus orbitatus" ; Times: 1
+	Query: "mappable:1 scientificname:Terenura maculata" ; Times: 1
+	Query: "glaucidium minutissimum" ; Times: 1
+	Query: "mappable:1 scientificname:Chiroxiphia caudata" ; Times: 1
+	Query: "mappable:1 scientificname:Schiffornis virescens" ; Times: 1
+	Query: "mappable:1 scientificname:Attila rufus" ; Times: 1
+	Query: "vntype:specimen genus:odontophorus class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "mappable:1 scientificname:Tinamus solitarius" ; Times: 8
+	Query: "mappable:1 scientificname:Mionectes rufiventris" ; Times: 1
+	Query: "mappable:1 scientificname:Euphonia pectoralis" ; Times: 1
+	Query: "mappable:1 scientificname:Pyriglena leucoptera" ; Times: 1
+	Query: "mappable:1 scientificname:Strix hylophila" ; Times: 1
+	Query: "genus:Penelope class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "mappable:1 scientificname:Odontophorus capueira" ; Times: 1
+	Query: "Tachycineta leucorrhoa" ; Times: 1
+	Query: "mappable:1 scientificname:Aramides saracura" ; Times: 1
+	Query: "mappable:1 scientificname:Orthogonys chloricterus" ; Times: 1
+	Query: "mappable:1 scientificname:Automolus leucophthalmus" ; Times: 1
+	Query: "mappable:1 scientificname:Ilicura militaris" ; Times: 1
+	Query: "mappable:1 scientificname:Myrmeciza squamosa" ; Times: 1
+	Query: "mappable:1 scientificname:Tangara cyanoptera" ; Times: 1
+	Query: "mappable:1 scientificname:Triclaria malachitacea" ; Times: 3
+	Query: "mappable:1 scientificname:Tangara seledon" ; Times: 1
+	Query: "mappable:1 scientificname:Mackenziaena leachii" ; Times: 1
+	Query: "mappable:1 scientificname:Dendrocincla turdina" ; Times: 2
+	Query: "mappable:1 scientificname:Tangara cyanocephala" ; Times: 1
+	Query: "mappable:1 scientificname:Procnias nudicollis" ; Times: 1
+	Query: "vntype:specimen genus:Penelope class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "mappable:1 scientificname:Piculus aurulentus" ; Times: 1
+	Query: "mappable:1 scientificname:Myrmotherula unicolor" ; Times: 1
+	Query: "mappable:1 scientificname:Merulaxis ater" ; Times: 1
+	Query: "Turdus rufiventris" ; Times: 1
+	Query: "mappable:1 scientificname:Amazona vinacea" ; Times: 8
+	Query: "mappable:1 scientificname:Sporophila falcirostris" ; Times: 1
+	Query: "mappable:1 scientificname:Pulsatrix koeniswaldiana" ; Times: 1
+	Query: "mappable:1 scientificname:Amazona aestiva" ; Times: 3
+	Query: "Eudocimus ruber" ; Times: 2
+	Query: "mappable:1 scientificname:Glaucidium minutissimum" ; Times: 1
+	Query: "vntype:specimen specificepithet:capueira genus:odontophorus class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "mappable:1 scientificname:Tangara ornata" ; Times: 1
+	Query: "Progne chalybea" ; Times: 1
+	Query: "mappable:1 scientificname:Melanerpes flavifrons" ; Times: 1
+	Query: "mappable:1 scientificname:Tachyphonus coronatus" ; Times: 1
+	Query: "mappable:1 scientificname:Synallaxis infuscata" ; Times: 1
+	Query: "vntype:specimen specificepithet:superciliaris genus:Penelope class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "mappable:1 scientificname:Curaeus forbesi" ; Times: 1
+	Query: "mappable:1 scientificname:Myrmotherula axillaris" ; Times: 1
+	Query: "mappable:1 scientificname:Phylloscartes sylviolus" ; Times: 1
+	Query: "mappable:1 scientificname:Cranioleuca pallida" ; Times: 1
+	Query: "mappable:1 scientificname:Phibalura flavirostris" ; Times: 1
+	Query: "mappable:1 scientificname:Selenidera maculirostris" ; Times: 1
+	Query: "mappable:1 scientificname:Onychorhynchus coronatus" ; Times: 1
+	Query: "mappable:1 scientificname:Tangara desmaresti" ; Times: 1
+	Query: "mappable:1 scientificname:Sclerurus scansor" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 3 (out of 842 download events in this period)
+Total number of records downloaded: 14
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-11-17 ; Times: 2
+	Date: 2020-11-09 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen specificepithet:domesticus genus:Passer year &gt;= 1980 year &lt;= 1999" ; Times: 1
+	Query: "Eudocimus ruber" ; Times: 1
+	Query: "vntype:specimen specificepithet:domesticus genus:Passer year &gt;= 1980 year &lt;= 2021" ; Times: 1
+
+
+End of report.
